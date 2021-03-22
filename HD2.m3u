@@ -1,379 +1,482 @@
 #EXTM3U
-#EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="*CINE FAMILIAR", CINE:  CINECANAL
-https://m3u-editor.com/serve/telecine/235063496
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI.jpg" group-title="*CINE FAMILIAR", CINE: DE PELICULA
-https://m3u-editor.com/serve/telecine/235063497
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/1200px-Star_Classics_2020.svg.png" group-title="*CINE FAMILIAR", CINE: STAR CLASSICS
-https://m3u-editor.com/serve/telecine/235063498
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="*CINE FAMILIAR", CINE: FXM
-https://m3u-editor.com/serve/telecine/235063499
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="*CINE FAMILIAR", CINE: STUDIO UNIVERSAL
-https://m3u-editor.com/serve/telecine/235063500
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="*CINE FAMILIAR", CINE: TNT
-https://m3u-editor.com/serve/telecine/235063501
-#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/articulos/39000/n39480_d67c9f40e3-q.jpg" group-title="*CINE FAMILIAR", CINE: AMC
-https://m3u-editor.com/serve/telecine/235063502
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="*CINE FAMILIAR", CINE: A&E
-https://m3u-editor.com/serve/telecine/235063503
-#EXTINF: -1 tvg-logo="https://www.pcworld.es/cmsdata/features/3782111/ver-hbo-gratis_thumb1200_4-3.jpg" group-title="*CINE FAMILIAR", CINE: HBO
-https://m3u-editor.com/serve/telecine/235063504
-#EXTINF: -1 tvg-logo="https://webcdn3.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/HBO/premium-channel-hbo-2-logo.jpg" group-title="*CINE FAMILIAR", CINE: HBO 2
-https://m3u-editor.com/serve/telecine/235063505
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="*CINE FAMILIAR", CINE: HBO PLUS
-https://m3u-editor.com/serve/telecine/235063506
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/1d/93/e1/1d93e121cf3b05bc0d8b7468e7c9da1c.png" group-title="*CINE FAMILIAR", CINE: HBO FAMILY
-https://m3u-editor.com/serve/telecine/235063507
-#EXTINF: -1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="*CINE FAMILIAR", CINE: HBO XTREME
-https://m3u-editor.com/serve/telecine/235063508
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="*CINE FAMILIAR", CINE: GOLDEN PREMIER
-https://m3u-editor.com/serve/telecine/235063509
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="*CINE FAMILIAR", CINE: UNIVERSAL TV
-https://m3u-editor.com/serve/telecine/235063510
-#EXTINF: -1 tvg-logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="*CINE FAMILIAR", CINE: SPACE
-https://m3u-editor.com/serve/telecine/235063511
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="*CINE FAMILIAR", CINE: SONY CHANNEL
-https://m3u-editor.com/serve/telecine/235063512
-#EXTINF: -1 tvg-logo="https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2013/10/18/36ad0b1_paramount_channel.jpg" group-title="*CINE FAMILIAR", CINE: PARAMOUNT CHANNEL
-https://m3u-editor.com/serve/telecine/235063513
-#EXTINF: -1 tvg-logo="https://la.axn.com/sites/la.axn/files/ct_custom_page_f_primary_image/axn_logo.jpg" group-title="*CINE FAMILIAR", CINE: AXN
-https://m3u-editor.com/serve/telecine/235063514
-#EXTINF: -1 tvg-logo="https://www.newslinereport.com/online/nota_warner-channel-presenta-su-nuevo-look--feel.jpg" group-title="*CINE FAMILIAR", CINE: WARNER TV
-https://m3u-editor.com/serve/telecine/235063515
-#EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_atreseries_m.png" group-title="*CINE FAMILIAR", CINE: A3 SERIES INTERNACIONAL
-https://m3u-editor.com/serve/telecine/235063516
-#EXTINF: -1 tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/04/TNT-Series.png" group-title="*CINE FAMILIAR", CINE: TNT SERIES
-https://m3u-editor.com/serve/telecine/235063517
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="*CINE FAMILIAR", CINE: SYFY
-https://m3u-editor.com/serve/telecine/235063518
-#EXTINF: -1 tvg-logo="https://www.newslinereport.com/online/nota_cinemax-entre-los-favoritos-de-la-audiencia-mexicana.jpg" group-title="*CINE FAMILIAR", CINE: CINEMAX
-https://m3u-editor.com/serve/telecine/235063519
-#EXTINF: -1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png" group-title="*CINE FAMILIAR", CINE: WOW TV
-https://m3u-editor.com/serve/telecine/235063520
-#EXTINF: -1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarSeries_Logo2021_FondoClaro.png.cb78e0cf215c6116d1ea8d275cc08387.png" group-title="*CINE FAMILIAR", CINE: STAR SERIES
-https://m3u-editor.com/serve/telecine/235063521
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png" group-title="*CINE FAMILIAR", CINE: STAR ACTION
-https://m3u-editor.com/serve/telecine/235063522
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1200px-Star_Hits_2020.svg.png" group-title="*CINE FAMILIAR", CINE: STAR MOVIES
-https://m3u-editor.com/serve/telecine/235063523
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png" group-title="*CINE FAMILIAR", CINE: STAR FUN
-https://m3u-editor.com/serve/telecine/235063524
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="*CINE FAMILIAR", CINE: ISAT
-https://m3u-editor.com/serve/telecine/235063525
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="*CINE FAMILIAR", CINE: CINE LATINO
-https://m3u-editor.com/serve/telecine/235063526
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="*CINE FAMILIAR", CINE: FX
-https://m3u-editor.com/serve/telecine/235063527
-#EXTINF: -1 tvg-logo="https://media.biobiochile.cl/wp-content/uploads/2021/02/star-1-1200x768.jpg" group-title="*CINE FAMILIAR", CINE: STAR CHANNEL
-https://m3u-editor.com/serve/telecine/235063528
-#EXTINF: -1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="*INFANTILES", INFANTIL: CARTOON NEWTORK SD
-https://m3u-editor.com/serve/telecine/235063529
-#EXTINF: -1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="*INFANTILES", INFANTIL: DISCOVERY KIDS SD
-https://m3u-editor.com/serve/telecine/235063530
-#EXTINF: -1 tvg-chno="5" tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" group-title="*INFANTILES", INFANTIL: BABY TV
-https://m3u-editor.com/serve/telecine/235063531
-#EXTINF: -1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Boomerang_2014_logo.svg" group-title="*INFANTILES", INFANTIL: BOOMERANG SD
-https://m3u-editor.com/serve/telecine/235063532
-#EXTINF: -1 tvg-chno="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png" group-title="*INFANTILES", INFANTIL: DISNEY CHANNEL SD
-https://m3u-editor.com/serve/telecine/235063533
-#EXTINF: -1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="*INFANTILES", INFANTIL: DISNEY JUNIOR SD
-https://m3u-editor.com/serve/telecine/235063534
-#EXTINF: -1 tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="*INFANTILES", INFANTIL: DISNEY XD SD
-https://m3u-editor.com/serve/telecine/235063535
-#EXTINF: -1 tvg-chno="17" tvg-logo="data:image/png;base64,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" group-title="*INFANTILES", INFANTIL: NATGEO KIDS SD
-https://m3u-editor.com/serve/telecine/235063536
-#EXTINF: -1 tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/800px-Nick.svg.png" group-title="*INFANTILES", INFANTIL: NICKELODEON SD
-https://m3u-editor.com/serve/telecine/235063537
-#EXTINF: -1 tvg-chno="20" tvg-logo="data:image/jpeg;base64,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" group-title="*INFANTILES", INFANTIL: NICK JUNIOR SD
-https://m3u-editor.com/serve/telecine/235063538
-#EXTINF: -1 tvg-logo="https://media-assets-03.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-116055-maxresdefault-1--default--1280.jpg" group-title="*CULTURA", CULTURA: DISCOVERY CHANNEL
-https://m3u-editor.com/serve/telecine/235063539
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="*CULTURA", CULTURA: ANIMAL PLANET
-https://m3u-editor.com/serve/telecine/235063540
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-Q4OgvndALm8/WqnaywA7f7I/AAAAAAAAEck/KVomu2aru5o9BbovpqTRoIWFxokuJ-JbACLcBGAs/s1600/_0040_discovery_hh.png" group-title="*CULTURA", CULTURA: DISCOVERY HOME AND HEALTH
-https://m3u-editor.com/serve/telecine/235063541
-#EXTINF: -1 tvg-logo="https://www.roastbrief.com.mx/wp-content/uploads/2011/10/Discovery-Science-Logo.jpg" group-title="*CULTURA", CULTURA: DISCOVERY SCIENCE
-https://m3u-editor.com/serve/telecine/235063542
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1200px-2015_Discovery_theater_HD_logo.svg.png" group-title="*CULTURA", CULTURA: DISCOVERY THEATHER
-https://m3u-editor.com/serve/telecine/235063543
-#EXTINF: -1 tvg-logo="https://dcom-prod.imgix.net/files/2020-12/tlc_thumb.png" group-title="*CULTURA", CULTURA: DISCOVERY TLC
-https://m3u-editor.com/serve/telecine/235063544
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="*CULTURA", CULTURA: DISCOVERY TURBO
-https://m3u-editor.com/serve/telecine/235063545
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="*CULTURA", CULTURA: DISCOVERY WORLD
-https://m3u-editor.com/serve/telecine/235063546
-#EXTINF: -1 tvg-logo="https://dcom-prod.imgix.net/files/2020-12/Food_network_thumb.png" group-title="*CULTURA", CULTURA: FOOD NETWORK
-https://m3u-editor.com/serve/telecine/235063547
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="*CULTURA", CULTURA: HGTV
-https://m3u-editor.com/serve/telecine/235063548
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="*CULTURA", CULTURA: HISTORY
-https://m3u-editor.com/serve/telecine/235063549
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/220px-History2Logo2019.png" group-title="*CULTURA", CULTURA: HISTORY 2
-https://m3u-editor.com/serve/telecine/235063550
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="*CULTURA", CULTURA: INVESTIGATION DISCOVERY
-https://m3u-editor.com/serve/telecine/235063551
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1277658125479403520/AOFAWNvv.jpg" group-title="*CULTURA", CULTURA: NATIONAL GEOGRAPHIC
-https://m3u-editor.com/serve/telecine/235063552
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-Na" group-title="*CULTURA", CULTURA: NATIONAL GEOGRAPHIC WILD
-https://m3u-editor.com/serve/telecine/235063553
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="*CULTURA", CULTURA: LIFETIME
-https://m3u-editor.com/serve/telecine/235063554
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="*DEPORTES", DEPORTES: BEIN SPORTS Ñ SD
-https://m3u-editor.com/serve/telecine/235063555
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="*DEPORTES", DEPORTES: BEIN SPORTS Ñ HD
-https://m3u-editor.com/serve/telecine/235063556
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="*DEPORTES", DEPORTES: TYC SPORTS ITERNATIONAL
-https://m3u-editor.com/serve/telecine/235063557
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="*DEPORTES", DEPORTES: DIRECTV SPORTS
-https://m3u-editor.com/serve/telecine/235063558
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="*DEPORTES", DEPORTES: DIRECTV SPORTS 2
-https://m3u-editor.com/serve/telecine/235063559
-#EXTINF: -1 tvg-logo="https://dynamicimages.directvsports.com/images/rest/Photo/Photos/General/65/44/26/654426_Rect169_480.jpg" group-title="*DEPORTES", DEPORTES: DIRECTV SPORTS +
-https://m3u-editor.com/serve/telecine/235063560
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="*DEPORTES", DEPORTES: FOX SPORTS 1 SD
-https://m3u-editor.com/serve/telecine/235063561
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="*DEPORTES", DEPORTES: FOX SPORTS 2 SD
-https://m3u-editor.com/serve/telecine/235063562
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="*DEPORTES", DEPORTES: FOX SPORTS 3 SD
-https://m3u-editor.com/serve/telecine/235063563
-#EXTINF: -1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="*DEPORTES", DEPORTES: ESPN 1 SD
-https://m3u-editor.com/serve/telecine/235063564
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="*DEPORTES", DEPORTES: ESPN 2 SD
-https://m3u-editor.com/serve/telecine/235063565
-#EXTINF: -1 tvg-logo="http://1.bp.blogspot.com/-GSpOWtz_yHA/VMrBTzzfXHI/AAAAAAAAAJ4/5mQIJNyNMHo/s1600/ESPN%2B3%2Ben%2Bvivo%2Bonline.jpg" group-title="*DEPORTES", DEPORTES: ESPN 3 SD
-https://m3u-editor.com/serve/telecine/235063566
-#EXTINF: -1 tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="*DEPORTES", DEPORTES: TUDN
-https://m3u-editor.com/serve/telecine/235063567
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Univision_Deportes.png" group-title="*DEPORTES", DEPORTES: TUDN UNIVISION
-https://m3u-editor.com/serve/telecine/235063568
-#EXTINF: -1 tvg-logo="https://prod.media.libero.pe/1200x660/libero/imagen/2020/11/11/noticia-1605129561-tigo-sports-vivo.jpg" tvg-logo-small="https://prod.media.libero.pe/1200x660/libero/imagen/2020/11/11/noticia-1605129561-tigo-sports-vivo.jpg" group-title="*DEPORTES", DEPORTES: TIGO SPORTS
-https://m3u-editor.com/serve/telecine/235063569
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/1280px-Winsports.svg.png" tvg-logo-small="https://i.pinimg.com/originals/92/6b/d2/926bd2b29a15be3a1fefcd039d5a1ca0.gif" group-title="*DEPORTES", DEPORTES: WIN SPORTS SD
-https://m3u-editor.com/serve/telecine/235063570
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="*DEPORTES", DPORTES: WIN SPORTS +
-https://m3u-editor.com/serve/telecine/235063571
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="*DEPORTES", DEPORTES: FOX SPORTS PREMIUM
-https://m3u-editor.com/serve/telecine/235063572
-#EXTINF: -1 tvg-logo="https://tntsports.com.ar/__export/1610632432438/sites/tntsports/arte/apps/twitter_summary_card_20210114.jpg" group-title="*DEPORTES", DEPORTES: TNT SPORTS
-https://m3u-editor.com/serve/telecine/235063573
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="*DEPORTES", DEPORTES: MLB NETWORK
-https://m3u-editor.com/serve/telecine/235063574
-#EXTINF: -1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="*DEPORTES", DEPORTES: ESPN DEPORTES
-https://m3u-editor.com/serve/telecine/235063575
-#EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="*DEPORTES", DEPORTES: ESPN EXTRA
-https://m3u-editor.com/serve/telecine/235063576
-#EXTINF: -1 tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/us-golf-channe-9372.jpg" group-title="*DEPORTES", DEPORTES: GOLF TV
-https://m3u-editor.com/serve/telecine/235063577
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/1200px-NBC_Sports_2012.svg.png" group-title="*DEPORTES", DEPORTES: NBC SPORTS
-https://m3u-editor.com/serve/telecine/235063578
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="*DEPORTES", DEPORTES: FS1
-https://m3u-editor.com/serve/telecine/235063579
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1080017503047213056/9sMHy4R5.jpg" group-title="*DEPORTES", DEPORTES: ADRENALINA SPORTS
-https://m3u-editor.com/serve/telecine/235063580
-#EXTINF: -1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="*DEPORTES", DEPORTES: ESPN 1 HD
-https://m3u-editor.com/serve/telecine/235063581
-#EXTINF: -1 tvg-logo="http://1.bp.blogspot.com/-GSpOWtz_yHA/VMrBTzzfXHI/AAAAAAAAAJ4/5mQIJNyNMHo/s1600/ESPN%2B3%2Ben%2Bvivo%2Bonline.jpg" group-title="*DEPORTES", DEPORTES: ESPN 3 HD
-https://m3u-editor.com/serve/telecine/235063582
-#EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png" group-title="*DEPORTES", DEPORTES: FOX SPORTS 1 HD
-https://m3u-editor.com/serve/telecine/235063583
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="*DEPORTES", DEPORTES: FOX SPORTS 2 HD
-https://m3u-editor.com/serve/telecine/235063584
-#EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="*LATINOS PREMIUM", *LATINOS:  CINECANAL
-https://m3u-editor.com/serve/telecine/235063585
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI.jpg" group-title="*LATINOS PREMIUM", *LATINOS: DE PELICULA
-https://m3u-editor.com/serve/telecine/235063586
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/1200px-Star_Classics_2020.svg.png" group-title="*LATINOS PREMIUM", *LATINOS: STAR CLASSICS
-https://m3u-editor.com/serve/telecine/235063587
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="*LATINOS PREMIUM", *LATINOS: FXM
-https://m3u-editor.com/serve/telecine/235063588
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="*LATINOS PREMIUM", *LATINOS: STUDIO UNIVERSAL
-https://m3u-editor.com/serve/telecine/235063589
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="*LATINOS PREMIUM", *LATINOS: TNT
-https://m3u-editor.com/serve/telecine/235063590
-#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/articulos/39000/n39480_d67c9f40e3-q.jpg" group-title="*LATINOS PREMIUM", *LATINOS: AMC
-https://m3u-editor.com/serve/telecine/235063591
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="*LATINOS PREMIUM", *LATINOS: A&E
-https://m3u-editor.com/serve/telecine/235063592
-#EXTINF: -1 tvg-logo="https://www.pcworld.es/cmsdata/features/3782111/ver-hbo-gratis_thumb1200_4-3.jpg" group-title="*LATINOS PREMIUM", *LATINOS: HBO
-https://m3u-editor.com/serve/telecine/235063593
-#EXTINF: -1 tvg-logo="https://webcdn3.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/HBO/premium-channel-hbo-2-logo.jpg" group-title="*LATINOS PREMIUM", *LATINOS: HBO 2
-https://m3u-editor.com/serve/telecine/235063594
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="*LATINOS PREMIUM", *LATINOS: HBO PLUS
-https://m3u-editor.com/serve/telecine/235063595
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/1d/93/e1/1d93e121cf3b05bc0d8b7468e7c9da1c.png" group-title="*LATINOS PREMIUM", *LATINOS: HBO FAMILY
-https://m3u-editor.com/serve/telecine/235063596
-#EXTINF: -1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="*LATINOS PREMIUM", *LATINOS: HBO XTREME
-https://m3u-editor.com/serve/telecine/235063597
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="*LATINOS PREMIUM", *LATINOS: GOLDEN PREMIER
-https://m3u-editor.com/serve/telecine/235063598
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="*LATINOS PREMIUM", *LATINOS: UNIVERSAL TV
-https://m3u-editor.com/serve/telecine/235063599
-#EXTINF: -1 tvg-logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="*LATINOS PREMIUM", *LATINOS: SPACE
-https://m3u-editor.com/serve/telecine/235063600
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="*LATINOS PREMIUM", *LATINOS: SONY CHANNEL
-https://m3u-editor.com/serve/telecine/235063601
-#EXTINF: -1 tvg-logo="https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2013/10/18/36ad0b1_paramount_channel.jpg" group-title="*LATINOS PREMIUM", *LATINOS: PARAMOUNT CHANNEL
-https://m3u-editor.com/serve/telecine/235063602
-#EXTINF: -1 tvg-logo="https://la.axn.com/sites/la.axn/files/ct_custom_page_f_primary_image/axn_logo.jpg" group-title="*LATINOS PREMIUM", *LATINOS: AXN
-https://m3u-editor.com/serve/telecine/235063603
-#EXTINF: -1 tvg-logo="https://www.newslinereport.com/online/nota_warner-channel-presenta-su-nuevo-look--feel.jpg" group-title="*LATINOS PREMIUM", *LATINOS: WARNER TV
-https://m3u-editor.com/serve/telecine/235063604
-#EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_atreseries_m.png" group-title="*LATINOS PREMIUM", *LATINOS: A3 SERIES INTERNACIONAL
-https://m3u-editor.com/serve/telecine/235063605
-#EXTINF: -1 tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/04/TNT-Series.png" group-title="*LATINOS PREMIUM", *LATINOS: TNT SERIES
-https://m3u-editor.com/serve/telecine/235063606
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="*LATINOS PREMIUM", *LATINOS: SYFY
-https://m3u-editor.com/serve/telecine/235063607
-#EXTINF: -1 tvg-logo="https://www.newslinereport.com/online/nota_cinemax-entre-los-favoritos-de-la-audiencia-mexicana.jpg" group-title="*LATINOS PREMIUM", *LATINOS: CINEMAX
-https://m3u-editor.com/serve/telecine/235063608
-#EXTINF: -1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png" group-title="*LATINOS PREMIUM", *LATINOS: WOW TV
-https://m3u-editor.com/serve/telecine/235063609
-#EXTINF: -1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarSeries_Logo2021_FondoClaro.png.cb78e0cf215c6116d1ea8d275cc08387.png" group-title="*LATINOS PREMIUM", *LATINOS: STAR SERIES
-https://m3u-editor.com/serve/telecine/235063610
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png" group-title="*LATINOS PREMIUM", *LATINOS: STAR ACTION
-https://m3u-editor.com/serve/telecine/235063611
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1200px-Star_Hits_2020.svg.png" group-title="*LATINOS PREMIUM", *LATINOS: STAR MOVIES
-https://m3u-editor.com/serve/telecine/235063612
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png" group-title="*LATINOS PREMIUM", *LATINOS: STAR FUN
-https://m3u-editor.com/serve/telecine/235063613
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="*LATINOS PREMIUM", *LATINOS: ISAT
-https://m3u-editor.com/serve/telecine/235063614
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="*LATINOS PREMIUM", *LATINOS: CINE LATINO
-https://m3u-editor.com/serve/telecine/235063615
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="*LATINOS PREMIUM", *LATINOS: FX
-https://m3u-editor.com/serve/telecine/235063616
-#EXTINF: -1 tvg-logo="https://media.biobiochile.cl/wp-content/uploads/2021/02/star-1-1200x768.jpg" group-title="*LATINOS PREMIUM", *LATINOS: STAR CHANNEL
-https://m3u-editor.com/serve/telecine/235063617
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="*LATINOS PREMIUM", *LATINOS: AXN HD
-https://m3u-editor.com/serve/telecine/235063618
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Azteca_UNO_logo_2020.webp/245px-Azteca_UNO_logo_2020.webp.png" group-title="*LATINOS PREMIUM", *LATINOS: AZTECA UNO
-https://m3u-editor.com/serve/telecine/235063619
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="*LATINOS PREMIUM", *LATINOS: CANAL 5
-https://m3u-editor.com/serve/telecine/235063620
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="*LATINOS PREMIUM", *LATINOS: CINE LATINO
-https://m3u-editor.com/serve/telecine/235063621
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="*LATINOS PREMIUM", *LATINOS: COMEDY CENTRAL
-https://m3u-editor.com/serve/telecine/235063622
-#EXTINF: -1 tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg" group-title="*LATINOS PREMIUM", *LATINOS: E!
-https://m3u-editor.com/serve/telecine/235063623
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="*LATINOS PREMIUM", *LATINOS: HOLATV!
-https://m3u-editor.com/serve/telecine/235063624
-#EXTINF: -1 tvg-logo="http://cdn2.dineroenimagen.com/media/dinero/styles/xlarge/public/images/2019/11/grupoimagen1_0.jpg" group-title="*LATINOS PREMIUM", *LATINOS: IMAGEN TV
-https://m3u-editor.com/serve/telecine/235063625
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="*LATINOS PREMIUM", *LATINOS: LAS ESTRELLAS
-https://m3u-editor.com/serve/telecine/235063626
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/TruTV_2014.svg" group-title="*LATINOS PREMIUM", *LATINOS: TRUTV
-https://m3u-editor.com/serve/telecine/235063627
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="*LATINOS PREMIUM", *LATINOS: TBS
-https://m3u-editor.com/serve/telecine/235063628
-#EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="*LATINOS PREMIUM", *LATINOS: MULTIPREMIER
-https://m3u-editor.com/serve/telecine/235063629
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="*LATINOS PREMIUM", *LATINOS: PASIONES
-https://m3u-editor.com/serve/telecine/235063630
-#EXTINF: -1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-unicable.jpg" group-title="*LATINOS PREMIUM", *LATINOS: UNICABLE
-https://m3u-editor.com/serve/telecine/235063631
-#EXTINF: -1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/brand/promo/2018/09/26/10_telemundo_internacional_1920x1080_b2.jpg" group-title="*LATINOS PREMIUM", *LATINOS: TELEMUNDO INTERNATIONAL
-https://m3u-editor.com/serve/telecine/235063632
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/993581583507509249/6bbhb9Dv_400x400.jpg" group-title="*LATINOS PREMIUM", *LATINOS: TELEMUNDO PUERTO RICO
-https://m3u-editor.com/serve/telecine/235063633
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="*LATINOS PREMIUM", *LATINOS: SYFY ENG
-https://m3u-editor.com/serve/telecine/235063634
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="*MEXICO PREMIUM", *MX: AZTECA 7 HD
-https://m3u-editor.com/serve/telecine/235063635
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="*MEXICO PREMIUM", *MX: CANAL 5
-https://m3u-editor.com/serve/telecine/235063636
-#EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_atreseries_m.png" group-title="*MEXICO PREMIUM", *MX: A3 SERIES INTERNACIONAL
-https://m3u-editor.com/serve/telecine/235063637
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="*MEXICO PREMIUM", *MX: COMEDY CENTRAL
-https://m3u-editor.com/serve/telecine/235063638
-#EXTINF: -1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-unicable.jpg" group-title="*MEXICO PREMIUM", *MX: UNICABLE
-https://m3u-editor.com/serve/telecine/235063639
-#EXTINF: -1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/brand/promo/2018/09/26/10_telemundo_internacional_1920x1080_b2.jpg" group-title="*MEXICO PREMIUM", *MX: TELEMUNDO INTERNATIONAL
-https://m3u-editor.com/serve/telecine/235063640
-#EXTINF: -1 tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg" group-title="*MEXICO PREMIUM", *MX: E!
-https://m3u-editor.com/serve/telecine/235063641
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="*MEXICO PREMIUM", *MX: HOLATV!
-https://m3u-editor.com/serve/telecine/235063642
-#EXTINF: -1 tvg-logo="http://cdn2.dineroenimagen.com/media/dinero/styles/xlarge/public/images/2019/11/grupoimagen1_0.jpg" group-title="*MEXICO PREMIUM", *MX: IMAGEN TV
-https://m3u-editor.com/serve/telecine/235063643
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="*MEXICO PREMIUM", *MX: LAS ESTRELLAS
-https://m3u-editor.com/serve/telecine/235063644
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="*MEXICO PREMIUM", *MX: PASIONES
-https://m3u-editor.com/serve/telecine/235063645
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="*MEXICO PREMIUM", *MX: FORO TV
-https://m3u-editor.com/serve/telecine/235063646
-#EXTINF: -1 tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="*MEXICO PREMIUM", *MX: TUDN
-https://m3u-editor.com/serve/telecine/235063647
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Univision_Deportes.png" group-title="*MEXICO PREMIUM", *MX: TUDN UNIVISION
-https://m3u-editor.com/serve/telecine/235063648
-#EXTINF: -1 tvg-logo="https://image.roku.com/developer_channels/prod/47d6498daa5250b576205586df443402401e048ca9c063aa467979d07a4654b1.png" group-title="*MEXICO PREMIUM", *MX: AZTECA +
-https://m3u-editor.com/serve/telecine/235063649
-#EXTINF: -1 tvg-logo="https://radionotas.com/wp-content/uploads/2017/10/ADN-40.jpg" group-title="*MEXICO PREMIUM", *MX: ADN40
-https://m3u-editor.com/serve/telecine/235063650
-#EXTINF: -1 group-title="*BANEO", Banned|TELECINE
-https://m3u-editor.com/serve/telecine/235063651
-#EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="*CINE VIP SD Y HD", *CINE VIP:  CINECANAL SD
-https://m3u-editor.com/serve/telecine/235067440
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI.jpg" group-title="*CINE VIP SD Y HD", *CINE VIP: DE PELICULA
-https://m3u-editor.com/serve/telecine/235067441
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/1200px-Star_Classics_2020.svg.png" group-title="*CINE VIP SD Y HD", *CINE VIP: STAR CLASSICS
-https://m3u-editor.com/serve/telecine/235067442
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="*CINE VIP SD Y HD", *CINE VIP: FXM
-https://m3u-editor.com/serve/telecine/235067443
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="*CINE VIP SD Y HD", *CINE VIP: STUDIO UNIVERSAL
-https://m3u-editor.com/serve/telecine/235067444
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="*CINE VIP SD Y HD", *CINE VIP: TNT
-https://m3u-editor.com/serve/telecine/235067445
-#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/articulos/39000/n39480_d67c9f40e3-q.jpg" group-title="*CINE VIP SD Y HD", *CINE VIP: AMC
-https://m3u-editor.com/serve/telecine/235067446
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="*CINE VIP SD Y HD", *CINE VIP: A&E
-https://m3u-editor.com/serve/telecine/235067447
-#EXTINF: -1 tvg-logo="https://www.pcworld.es/cmsdata/features/3782111/ver-hbo-gratis_thumb1200_4-3.jpg" group-title="*CINE VIP SD Y HD", *CINE VIP: HBO
-https://m3u-editor.com/serve/telecine/235067448
-#EXTINF: -1 tvg-logo="https://webcdn3.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/HBO/premium-channel-hbo-2-logo.jpg" group-title="*CINE VIP SD Y HD", *CINE VIP: HBO 2
-https://m3u-editor.com/serve/telecine/235067449
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="*CINE VIP SD Y HD", *CINE VIP: HBO PLUS
-https://m3u-editor.com/serve/telecine/235067450
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/1d/93/e1/1d93e121cf3b05bc0d8b7468e7c9da1c.png" group-title="*CINE VIP SD Y HD", *CINE VIP: HBO FAMILY
-https://m3u-editor.com/serve/telecine/235067451
-#EXTINF: -1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="*CINE VIP SD Y HD", *CINE VIP: HBO XTREME
-https://m3u-editor.com/serve/telecine/235067452
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="*CINE VIP SD Y HD", *CINE VIP: GOLDEN PREMIER
-https://m3u-editor.com/serve/telecine/235067453
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="*CINE VIP SD Y HD", *CINE VIP: UNIVERSAL TV
-https://m3u-editor.com/serve/telecine/235067454
-#EXTINF: -1 tvg-logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="*CINE VIP SD Y HD", *CINE VIP: SPACE
-https://m3u-editor.com/serve/telecine/235067455
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="*CINE VIP SD Y HD", *CINE VIP: SONY CHANNEL
-https://m3u-editor.com/serve/telecine/235067456
-#EXTINF: -1 tvg-logo="https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2013/10/18/36ad0b1_paramount_channel.jpg" group-title="*CINE VIP SD Y HD", *CINE VIP: PARAMOUNT CHANNEL
-https://m3u-editor.com/serve/telecine/235067457
-#EXTINF: -1 tvg-logo="https://la.axn.com/sites/la.axn/files/ct_custom_page_f_primary_image/axn_logo.jpg" group-title="*CINE VIP SD Y HD", *CINE VIP: AXN
-https://m3u-editor.com/serve/telecine/235067458
-#EXTINF: -1 tvg-logo="https://www.newslinereport.com/online/nota_warner-channel-presenta-su-nuevo-look--feel.jpg" group-title="*CINE VIP SD Y HD", *CINE VIP: WARNER TV
-https://m3u-editor.com/serve/telecine/235067459
-#EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_atreseries_m.png" group-title="*CINE VIP SD Y HD", *CINE VIP: A3 SERIES INTERNACIONAL
-https://m3u-editor.com/serve/telecine/235067460
-#EXTINF: -1 tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/04/TNT-Series.png" group-title="*CINE VIP SD Y HD", *CINE VIP: TNT SERIES
-https://m3u-editor.com/serve/telecine/235067461
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="*CINE VIP SD Y HD", *CINE VIP: SYFY
-https://m3u-editor.com/serve/telecine/235067462
-#EXTINF: -1 tvg-logo="https://www.newslinereport.com/online/nota_cinemax-entre-los-favoritos-de-la-audiencia-mexicana.jpg" group-title="*CINE VIP SD Y HD", *CINE VIP: CINEMAX
-https://m3u-editor.com/serve/telecine/235067463
-#EXTINF: -1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png" group-title="*CINE VIP SD Y HD", *CINE VIP: WOW TV
-https://m3u-editor.com/serve/telecine/235067464
-#EXTINF: -1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarSeries_Logo2021_FondoClaro.png.cb78e0cf215c6116d1ea8d275cc08387.png" group-title="*CINE VIP SD Y HD", *CINE VIP: STAR SERIES
-https://m3u-editor.com/serve/telecine/235067465
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png" group-title="*CINE VIP SD Y HD", *CINE VIP: STAR ACTION
-https://m3u-editor.com/serve/telecine/235067466
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1200px-Star_Hits_2020.svg.png" group-title="*CINE VIP SD Y HD", *CINE VIP: STAR MOVIES
-https://m3u-editor.com/serve/telecine/235067467
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png" group-title="*CINE VIP SD Y HD", *CINE VIP: STAR FUN
-https://m3u-editor.com/serve/telecine/235067468
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="*CINE VIP SD Y HD", *CINE VIP: ISAT
-https://m3u-editor.com/serve/telecine/235067469
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="*CINE VIP SD Y HD", *CINE VIP: CINE LATINO
-https://m3u-editor.com/serve/telecine/235067470
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="*CINE VIP SD Y HD", *CINE VIP: FX
-https://m3u-editor.com/serve/telecine/235067471
-#EXTINF: -1 tvg-logo="https://media.biobiochile.cl/wp-content/uploads/2021/02/star-1-1200x768.jpg" group-title="*CINE VIP SD Y HD", *CINE VIP: STAR CHANNEL
-https://m3u-editor.com/serve/telecine/235067472
+#EXTM3U
+#EXTINF:-1,ESPN 2 FHD (Latino)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/82680
+#EXTINF:-1,ESPN 3 FHD (Latino)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/82681
+#EXTINF:-1,Telemundo Internacional HD (Latino)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/83156
+#EXTINF:-1,ESPN 1 FHD (Latino)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/83157
+#EXTINF:-1,SERIE A | ESPN 1 MEXICO FHD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/83158
+#EXTINF:-1,SERIE A | ESPN 2 MEXICO FHD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/83159
+#EXTINF:-1,SERIE A | ESPN 3 MEXICO FHD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/83160
+#EXTINF:-1,UEFA | TUDN HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/81620
+#EXTINF:-1,UEFA | FOX SPORTS 1 SUR
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/82345
+#EXTINF:-1,UEFA | FOX SPORTS 2 SUR
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/82346
+#EXTINF:-1,UEFA | FOX SPORTS 3 SUR
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/82347
+#EXTINF:-1,UEFA | ESPN 1 MEXICO HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/82350
+#EXTINF:-1,UEFA | ESPN 2 MEXICO HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/82351
+#EXTINF:-1,UEFA | ESPN 3 MEXICO HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/82352
+#EXTINF:-1,CINE HD | AMC HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1000
+#EXTINF:-1,CINE HD | FX (MX) FHD 
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1012
+#EXTINF:-1,CINE HD | PARAMOUNT CHANNEL HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1019
+#EXTINF:-1,CINE HD | SONY HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1022
+#EXTINF:-1,CINE HD | SPACE HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1024
+#EXTINF:-1,CINE HD | TNT SERIES HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1033
+#EXTINF:-1,CINE HD | WARNER CHANNEL HD (Dual Audio)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1034
+#EXTINF:-1,CINE HD | AZ CINEMA HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1035
+#EXTINF:-1,CINE HD | CINECANAL HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1039
+#EXTINF:-1,CINE HD | DE PELICULA PLUS HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1043
+#EXTINF:-1,CINE HD | STAR ACTION  ( Dual audio)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1047
+#EXTINF:-1,CINE HD | STAR CINEMA HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1048
+#EXTINF:-1,CINE HD | STAR FUN (Dual audio)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1053
+#EXTINF:-1,CINE HD | STAR HITS HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1055
+#EXTINF:-1,CINE HD | FXM HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1058
+#EXTINF:-1,CINE HD | GOLDEN PLUS HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1061
+#EXTINF:-1,CINE HD | GOLDEN PREMIER HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1062
+#EXTINF:-1,CINE HD | HBO HD (ARG)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1064
+#EXTINF:-1,CINE HD | HBO 2 HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1065
+#EXTINF:-1,CINE HD | TNT HD Dual
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1078
+#EXTINF:-1,CINE HD | UNIVERSAL CHANNEL (MX)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1080
+#EXTINF:-1,CINE HD | STARZ ENCORE WESTERN
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1188
+#EXTINF:-1,CINE HD | STARZ ENCORE SUSPENSE
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1189
+#EXTINF:-1,CINE HD | STARZ ENCORE FAMILY HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1191
+#EXTINF:-1,CINE HD | STARZ ENCORE CLASSIC
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1192
+#EXTINF:-1,CINE HD | STARZ ENCORE ACTION
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1193
+#EXTINF:-1,CINE HD | STARZ EDGE
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1194
+#EXTINF:-1,CINE HD | STARZ HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1195
+#EXTINF:-1,CINE HD | STARZ CINEMA HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1197
+#EXTINF:-1,CINE HD | STARZ BLACK
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1198
+#EXTINF:-1,CINE HD | SHOWTIME HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1200
+#EXTINF:-1,CINE HD | SHOWTIME BEYOND
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1202
+#EXTINF:-1,CINE HD | OUTERMAX
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1204
+#EXTINF:-1,CINE HD | MOREMAX
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1205
+#EXTINF:-1,CINE HD | STAR CHANNEL HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1207
+#EXTINF:-1,CINE HD | STAR FUN
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1208
+#EXTINF:-1,CINE HD | STAR SERIES HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1209
+#EXTINF:-1,CINE HD | STAR COMEDY ( Dual audio)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1210
+#EXTINF:-1,CINE HD | STAR CLASSICS
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1211
+#EXTINF:-1,CINE HD | CINEMAX (MX) HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1216
+#EXTINF:-1,CINE HD | HBO SIGNATURE
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1217
+#EXTINF:-1,CINE HD | HBO Plus
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1218
+#EXTINF:-1,CINE HD | HBO FAMILY
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1219
+#EXTINF:-1,CINE HD | HBO Pop
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1223
+#EXTINF:-1,CINE HD | TBS HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1225
+#EXTINF:-1,CINE HD | Studio Universal HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/2771
+#EXTINF:-1,CINE HD | DE PELICULA
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/3441
+#EXTINF:-1,CINE HD | SyFy FHD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/17596
+#EXTINF:-1,CINE HD | HBO HD Latino ( Dual audio)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/18722
+#EXTINF:-1,CINE HD | HBO Latino HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/41128
+#EXTINF:-1,CINE HD | HBO Xtreme HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/41129
+#EXTINF:-1,CINE HD | Zee Mundo HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/69529
+#EXTINF:-1,CINE HD | FX FHD ( DUAL AUDIO)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/72509
+#EXTINF:-1,CINE | AMC
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/999
+#EXTINF:-1,CINE | TNT SERIES
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1032
+#EXTINF:-1,CINE | DE PELICULA PLUS
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1042
+#EXTINF:-1,CINE | FOX PREMIUM CINEMA
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1049
+#EXTINF:-1,CINE | HBO Xtreme
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1070
+#EXTINF:-1,CINE | HBO SIGNATURE
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1212
+#EXTINF:-1,CINE | AXN
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1232
+#EXTINF:-1,CINE | CINECANAL
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1233
+#EXTINF:-1,CINE | CINEMAX
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1234
+#EXTINF:-1,CINE | FOX PREMIUM ACTION
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1236
+#EXTINF:-1,CINE | FOX
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1239
+#EXTINF:-1,CINE | FOX PREMIUM CLASSIC
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1242
+#EXTINF:-1,CINE | FOX PREMIUM COMEDY
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1243
+#EXTINF:-1,CINE | FOX PREMIUM FAMILY
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1244
+#EXTINF:-1,CINE | FOX PREMIUM MOVIES
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1245
+#EXTINF:-1,CINE | FOX PREMIUM SERIES
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1246
+#EXTINF:-1,CINE | FX
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1248
+#EXTINF:-1,CINE | FXM
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1249
+#EXTINF:-1,CINE | GOLDEN
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1250
+#EXTINF:-1,CINE | GOLDEN EDGE
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1251
+#EXTINF:-1,CINE | HBO
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1252
+#EXTINF:-1,CINE | HBO 2
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1253
+#EXTINF:-1,CINE | HBO FAMILY
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1255
+#EXTINF:-1,CINE | HBO PLUS
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1256
+#EXTINF:-1,CINE | HBO MUNDI
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1257
+#EXTINF:-1,CINE | PARAMOUNT CHANNEL
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1258
+#EXTINF:-1,CINE | SONY
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1259
+#EXTINF:-1,CINE | SPACE
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1260
+#EXTINF:-1,CINE | TBS
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1261
+#EXTINF:-1,CINE | TCM
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1262
+#EXTINF:-1,CINE | TNT
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1263
+#EXTINF:-1,CINE | CINEMA DINAMITA
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1265
+#EXTINF:-1,CINE | EUROPA EUROPA
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1266
+#EXTINF:-1,CINE | A&E
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1585
+#EXTINF:-1,CINE | FOX LIFE
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1607
+#EXTINF:-1,CINE | STAR TVE 
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/2513
+#EXTINF:-1,CINE | CINE LATINO
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/49337
+#EXTINF:-1,CINE |Cinema 01
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32673
+#EXTINF:-1,CINE |Cinema 02
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32674
+#EXTINF:-1,CINE |Cinema 03
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32675
+#EXTINF:-1,CINE |Cinema 04
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32676
+#EXTINF:-1,CINE |Cinema 05
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32677
+#EXTINF:-1,CINE |Cinema 06
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32678
+#EXTINF:-1,CINE |Cinema 07
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32679
+#EXTINF:-1,CINE |Cinema 08
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32680
+#EXTINF:-1,CINE |Cinema 09
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32681
+#EXTINF:-1,CINE |Cinema 10
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32682
+#EXTINF:-1,CINE |Cinema 11
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32683
+#EXTINF:-1,CINE |Cinema 12
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32684
+#EXTINF:-1,CINE |Cinema 13
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32685
+#EXTINF:-1,CINE |Cinema 14
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32686
+#EXTINF:-1,CINE |Cinema 15
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32687
+#EXTINF:-1,CINE |Cinema 16
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32688
+#EXTINF:-1,CINE |Cinema 17
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32689
+#EXTINF:-1,CINE |Cinema 18
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32690
+#EXTINF:-1,CINE |Cinema 19
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32691
+#EXTINF:-1,CINE |Cinema 20
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32692
+#EXTINF:-1,CINE |Cinema 21
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32693
+#EXTINF:-1,CINE |Cinema 22
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32694
+#EXTINF:-1,CINE |Cinema 23
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32695
+#EXTINF:-1,CINE |Cinema 24
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32696
+#EXTINF:-1,CINE |Cinema 25
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32697
+#EXTINF:-1,CINE |Cinema 26
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32698
+#EXTINF:-1,CINE |Cinema 27
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32699
+#EXTINF:-1,CINE |Cinema 28
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32700
+#EXTINF:-1,CINE |Cinema 29
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32701
+#EXTINF:-1,CINE |Cinema 30
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32702
+#EXTINF:-1,CINE |Cinema 31
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32703
+#EXTINF:-1,CINE |Cinema 32
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32704
+#EXTINF:-1,CINE |Cinema 33
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32705
+#EXTINF:-1,CINE |Cinema 34
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32706
+#EXTINF:-1,CINE |Cinema 35
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32707
+#EXTINF:-1,CINE |Cinema 36
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32708
+#EXTINF:-1,CINE |Cinema 37
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/32709
+#EXTINF:-1,INFANTILES | BABY TV HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1081
+#EXTINF:-1,INFANTILES | BOOMERANG (MX)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1082
+#EXTINF:-1,INFANTILES | CARTOON NETWORK HD (LAT)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1083
+#EXTINF:-1,INFANTILES | DISCOVERY KIDS HD (MX)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1084
+#EXTINF:-1,INFANTILES | DISNEY CHANNEL HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1085
+#EXTINF:-1,INFANTILES | DISNEY JR HD (MX)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1086
+#EXTINF:-1,INFANTILES | DISNEY XD HD (ARG)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1087
+#EXTINF:-1,INFANTILES | NAT GEO KIDS
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1088
+#EXTINF:-1,INFANTILES | NAT GEO KIDS HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1089
+#EXTINF:-1,INFANTILES | NICK 2 (MX)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1090
+#EXTINF:-1,INFANTILES | NICK 2 HD (LAT)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1091
+#EXTINF:-1,INFANTILES | NICK JR (LAT)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1092
+#EXTINF:-1,INFANTILES | NICKELODEON HD (MX)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1093
+#EXTINF:-1,INFANTILES | TOONCAST
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1098
+#EXTINF:-1,INFANTILES | Boomerang (ARG)  HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1589
+#EXTINF:-1,INFANTILES | Cartoon Network (MX)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1590
+#EXTINF:-1,INFANTILES | DISNEY JR (ARG)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1597
+#EXTINF:-1,INFANTILES | Disney XD (MX)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1598
+#EXTINF:-1,INFANTILES | NICKTOONS HD (MX)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/29604
+#EXTINF:-1,INFANTILES | Baby First
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/68779
+#EXTINF:-1,MEXICO | AZ CLIC
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/932
+#EXTINF:-1,MEXICO | AZ CORAZON HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/933
+#EXTINF:-1,MEXICO | AZ MUNDO FHD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/934
+#EXTINF:-1,MEXICO | AZTECA 7 FHD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/936
+#EXTINF:-1,MEXICO | AZTECA 7 HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/937
+#EXTINF:-1,MEXICO | AZTECA UNO FHD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/938
+#EXTINF:-1,MEXICO | AZTECA UNO HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/939
+#EXTINF:-1,MEXICO | CANAL 5 FHD OPC 2
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/942
+#EXTINF:-1,MEXICO | CANAL 5 FHD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/943
+#EXTINF:-1,MEXICO | CANAL NUEVE
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/944
+#EXTINF:-1,MEXICO | CANAL ONCE
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/946
+#EXTINF:-1,MEXICO | GALAVISION HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/948
+#EXTINF:-1,MEXICO | IMAGEN HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/949
+#EXTINF:-1,MEXICO | LAS ESTRELLAS FHD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/951
+#EXTINF:-1,MEXICO | LAS ESTRELLAS HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/952
+#EXTINF:-1,MEXICO | MULTIMEDIOS
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/954
+#EXTINF:-1,MEXICO | MULTIMEDIOS PLUS HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/955
+#EXTINF:-1,MEXICO | TELEVISA MONTERREY 
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/957
+#EXTINF:-1,MEXICO | LAS ESTRELLAS SD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1009
+#EXTINF:-1,MEXICO | CANAL 26 FHD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1381
+#EXTINF:-1,MEXICO | CANAL 4 
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1382
+#EXTINF:-1,MEXICO | CANAL 5 
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1383
+#EXTINF:-1,MEXICO | AZTECA 7 SD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1384
+#EXTINF:-1,MEXICO | ADN40 UHD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1386
+#EXTINF:-1,MEXICO | HOLA TV SD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1387
+#EXTINF:-1,MEXICO | SAT SD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1389
+#EXTINF:-1,MEXICO | INGENIO TV SD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1390
+#EXTINF:-1,MEXICO | ITV SD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1391
+#EXTINF:-1,MEXICO | TELEHIT SD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/1392
+#EXTINF:-1,MEXICO | Distrito Comedia
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/2122
+#EXTINF:-1,MEXICO | ADN40 SD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/2614
+#EXTINF:-1,MEXICO | TUDN MX
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/3492
+#EXTINF:-1,MEXICO | ADN40 HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/3520
+#EXTINF:-1,MEXICO | Canal Judicial SD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/3522
+#EXTINF:-1,MEXICO | Canal Judicial HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/3523
+#EXTINF:-1,MEXICO | UNICABLE FHD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/7867
+#EXTINF:-1,MEXICO | A+ HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/30072
+#EXTINF:-1,MEXICO | A+ SD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/30073
+#EXTINF:-1,MEXICO | TELENOVELAS HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/33804
+#EXTINF:-1,MEXICO | TELENOVELAS SD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/33805
+#EXTINF:-1,MEXICO | FOOD NETWORK SD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/35499
+#EXTINF:-1,MEXICO |  BITME
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/37412
+#EXTINF:-1,MEXICO | CANCUN CANAL 10
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/49336
+#EXTINF:-1,MEXICO | XEWT (CANALE 12 TIJUANA)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/49340
+#EXTINF:-1,MEXICO | BANDAMAX
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/61271
+#EXTINF:-1,MEXICO | Excelsior TV HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/69749
+#EXTINF:-1,MEXICO | Excelsior TV SD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/69750
+#EXTINF:-1,MEXICO | Milenio TV HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/73050
+#EXTINF:-1,MEXICO | Televisa Puebla
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/73051
+#EXTINF:-1,MEXICO | Televisa Monterrey
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/73052
+#EXTINF:-1,MEXICO | Televisa Puebla HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/73053
+#EXTINF:-1,MEXICO | TVO HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/86625
+#EXTINF:-1,MEXICO | TVO SD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/86626
+#EXTINF:-1,MEXICO | Canal 5
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/86838
+#EXTINF:-1,Foro TV
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/86839
+#EXTINF:-1,MEXICO | Azteca 7
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/86840
+#EXTINF:-1,Gala tv
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/86841
+#EXTINF:-1,MEXICO | Once TV
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/86842
+#EXTINF:-1,MEXICO | Azteca 13
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/86843
+#EXTINF:-1,MEXICO | Imagentv
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/86844
+#EXTINF:-1,MEXICO | Milenio TV
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/86845
+#EXTINF:-1,MEXICO | Canal 22
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/86846
+#EXTINF:-1,MEXICO | Canal 22-2
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/86847
+#EXTINF:-1,MEXICO | Canal del Congreso
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/86848
+#EXTINF:-1,MEXICO | Canal 52MX
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/86849
+#EXTINF:-1,MEXICO | Hola
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/86851
+#EXTINF:-1,MEXICO | TVC
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/86852
+#EXTINF:-1,MEXICO | Multimedios Monterrey
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/86853
+#EXTINF:-1,MEXICO | Multimedios Mty
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/86854
+#EXTINF:-1,MEXICO | Una Voz con Todos
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/86855
+#EXTINF:-1,LIGA CONCACAF | TUDN MX HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/72566
+#EXTINF:-1,LIGA CONCACAF | Espn 2
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/72567
+#EXTINF:-1,LIGA CONCACAF | MEX Fox Sports 2
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/72568
+#EXTINF:-1,LIGA CONCACAF | Azteca 7 HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/72569
+#EXTINF:-1,LIGA CONCACAF | TUDN
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/72570
+#EXTINF:-1,LIGA CONCACAF | Afizzionados (TV)
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/72571
+#EXTINF:-1,LIGA CONCACAF | ESPN 2 HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/72572
+#EXTINF:-1,LIGA CONCACAF | Fox Sports 2 HD
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/72573
+#EXTINF:-1,LIGA CONCACAF | MEX Fox Sports 2*
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/72574
