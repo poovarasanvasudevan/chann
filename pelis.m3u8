@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1  tvg-logo="https://dam.smashmexico.com.mx/wp-content/uploads/2020/05/Justice-league-zack-snyder-cut-estreno-hbo-max-cover.jpg",Liga de la Justicia de Zack Snyder
 https://archive.org/download/dqjBR3Jx5q8/dqjBR3Jx5q8.ia.mp4
 #EXTINF:-1  tvg-logo="https://archive.org/download/12_20210329_20210329/12.png",Wonder Woman 84
@@ -20,7 +19,7 @@ https://archive.org/download/avispa.1080p.lat.www.hackstore.net/ERE34/AVISPA.108
 https://archive.org/download/apokosimw/297.mp4
 #EXTINF:-1  tvg-logo="https://i.ibb.co/M6NTyJp/Los-Vengadores-Infinity-War.jpg",Avengers: Infinity Wars
 http://archive.org/download/mio3_yopmail_1/1.mp4
-#EXTINF:-1  tvg-logo="https://i.ibb.co/whXdVvw/Los-Vengadores-endgame.jpg",Avengers: Endgame
+#EXTINF:-1  tvg-logo="https://i.ibb.co/whXdVvw/Los-Vengadores-engame.jpg",Avengers: Endgame
 http://archive.org/download/nacimientodemihijo_201908/000111.mp4
 #EXTINF:-1  tvg-logo="https://i.ibb.co/W2vz4vz/Birds-of-Prey.jpg",Aves de presa (Harley Queen) (2020)
 https://dl.dropbox.com/s/aa4juhqtz2oqfkv/Ave.de.presa.2020.mp4
@@ -154,210 +153,142 @@ https://dl.dropbox.com/s/tucatoky8nnj3t9/xm3nd4rkph03n1x.mp4
 http://player.flumx.mx/Moviesmp4/los-nuevos-mutantes.mp4
 #EXTINF:-1 ,#EXTGRP:Accion, Sonic
 http://player.flumx.mx/Moviesmp4/Sonic.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,Fuga+de+Pretoria
 http://player.flumx.mx/Moviesmp4/Fuga+de+Pretoria+-+Escape+From+Pretoria+(2020).mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,transformes4
 http://player.flumx.mx/Moviesmp4/transformes4.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,La+vieja+guardia
 http://player.flumx.mx/Moviesmp4/La+vieja+guardia.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,Mulán
 http://player.flumx.mx/Moviesmp4/Mulán+-+Mulan+(2020).mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,Godzilla-1998
 http://player.flumx.mx/Moviesmp4/Godzilla-1998.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,Titanesdelpacifico
 http://player.flumx.mx/Moviesmp4/Titanesdelpacifico.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,Corazón-de-dragón
 http://flumx.mx/Moviesmp4/Corazón-de-dragón-La-venganza.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,mujer-maravilla
 http://flumx.mx/Moviesmp4/mujer-maravilla.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,fast-furious
 http://flumx.mx/Moviesmp4/fast-furious-8.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,Driven
 http://flumx.mx/Moviesmp4/Driven.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,batman-v-superman-el-amanecer-de-la-justicia
 http://flumx.mx/Moviesmp4/batman-v-superman-el-amanecer-de-la-justicia.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,san-andres 
 http://flumx.mx/Moviesmp4/san-andres.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,corazones-de-acero
 http://flumx.mx/Moviesmp4/corazones-de-acero.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,el-redencion
 http://flumx.mx/Moviesmp4/el-redencion.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,correr-o-morir
 http://flumx.mx/Moviesmp4/correr-o-morir.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,el-hombre-de-acero
 http://flumx.mx/Moviesmp4/el-hombre-de-acero.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,lucy
 http://flumx.mx/Moviesmp4/lucy.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,la-ultima-fase
 http://flumx.mx/Moviesmp4/la-ultima-fase.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,rescate-en-osiris
 http://flumx.mx/Moviesmp4/rescate-en-osiris.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,soy-leyenda
 http://flumx.mx/Moviesmp4/soy-leyenda.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,guerra-mundial-z
 http://flumx.mx/Moviesmp4/guerra-mundial-z.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,the-black-hole
 http://flumx.mx/Moviesmp4/the-black-hole.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,redcon-1
 http://flumx.mx/Moviesmp4/redcon-1.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,2012
 http://flumx.mx/Moviesmp4/2012.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,shadow-in-the-cloud
 http://flumx.mx/Moviesmp4/shadow-in-the-cloud.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,skyfire
 http://flumx.mx/Moviesmp4/skyfire.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,A-descubierto
 http://flumx.mx/Moviesmp4/A-descubierto.mp4
-#EXTINF:-1 ,#EXTGRP:Accion
+#EXTINF:-1 ,#EXTGRP:Accion,Última-misión-en-Afganistán
 http://flumx.mx/Moviesmp4/Última-misión-en-Afganistán.mp4
-#EXTINF:-1 ,#EXTGRP:Drama
+#EXTINF:-1 ,#EXTGRP:Drama,Lasbrujas
 http://player.flumx.mx/Moviesmp4/Lasbrujas.mp4
-#EXTINF:-1 ,#EXTGRP:Drama
+#EXTINF:-1 ,#EXTGRP:Drama,malefica2
 http://flumx.mx/Moviesmp4/malefica2.mp4
-#EXTINF:-1 ,#EXTGRP:Drama
+#EXTINF:-1 ,#EXTGRP:Drama,wild-mountain-thyme
 http://flumx.mx/Moviesmp4/wild-mountain-thyme.mp4
-#EXTINF:-1 ,#EXTGRP:Drama
+#EXTINF:-1 ,#EXTGRP:Drama,la-mascara
 http://flumx.mx/Moviesmp4/la-mascara.mp4
-#EXTINF:-1 ,#EXTGRP:Drama
+#EXTINF:-1 ,#EXTGRP:Drama,Joker
 http://flumx.mx/Moviesmp4/Joker.mp4
-#EXTINF:-1 ,#EXTGRP:Aventura
+#EXTINF:-1 ,#EXTGRP:Aventura,BillTedsalvandoeluniverso
 http://player.flumx.mx/Moviesmp4/BillTedsalvandoeluniverso.mp4
-#EXTINF:-1 ,#EXTGRP:Aventura
+#EXTINF:-1 ,#EXTGRP:Aventura,Sola-en-la-Tierra
 http://player.flumx.mx/Moviesmp4/Sola-en-la-Tierra-IO.mp4
-#EXTINF:-1 ,#EXTGRP:Aventura
+#EXTINF:-1 ,#EXTGRP:Aventura,Comoperrosygato3
 http://player.flumx.mx/Moviesmp4/Comoperrosygato3completa.mp4
-#EXTINF:-1 ,#EXTGRP:Aventura
+#EXTINF:-1 ,#EXTGRP:Aventura,Benji
 http://player.flumx.mx/Moviesmp4/Benji.mp4
-#EXTINF:-1 ,#EXTGRP:Aventura
+#EXTINF:-1 ,#EXTGRP:Aventura,Una-mente-canina
 http://flumx.mx/Moviesmp4/Una-mente-canina.mp4
-#EXTINF:-1 ,#EXTGRP:Aventura
+#EXTINF:-1 ,#EXTGRP:Aventura,las-cronicas-de-narnia-el-leon-la-bruja-y-el-ropero
 http://flumx.mx/Moviesmp4/las-cronicas-de-narnia-el-leon-la-bruja-y-el-ropero.mp4
-#EXTINF:-1 ,#EXTGRP:Aventura
+#EXTINF:-1 ,#EXTGRP:Aventura,una-noche-en-el-museo
 http://flumx.mx/Moviesmp4/una-noche-en-el-museo.mp4
-#EXTINF:-1 ,#EXTGRP:Aventura
+#EXTINF:-1 ,#EXTGRP:Aventura,el-libro-de-la-selva-2016
 http://flumx.mx/Moviesmp4/el-libro-de-la-selva-2016.mp4
-#EXTINF:-1 ,#EXTGRP:Aventura
+#EXTINF:-1 ,#EXTGRP:Aventura,aladdin
 http://flumx.mx/Moviesmp4/aladdin.mp4
-#EXTINF:-1 ,#EXTGRP:Aventura
+#EXTINF:-1 ,#EXTGRP:Aventura,avatar-2009
 http://flumx.mx/Moviesmp4/avatar-2009.mp4
-#EXTINF:-1 ,#EXTGRP:Aventura
+#EXTINF:-1 ,#EXTGRP:Aventura,zathura-una-aventura-espacial
 http://flumx.mx/Moviesmp4/zathura-una-aventura-espacial.mp4
-#EXTINF:-1 ,#EXTGRP:Aventura
+#EXTINF:-1 ,#EXTGRP:Aventura,Megamente
 http://flumx.mx/Moviesmp4/Megamente.mp4
-#EXTINF:-1 ,#EXTGRP:Animacion
+#EXTINF:-1 ,#EXTGRP:Animacion,La-familia-Addams
 http://player.flumx.mx/Moviesmp4/La-familia-Addams.mp4
-#EXTINF:-1 ,#EXTGRP:Animacion
+#EXTINF:-1 ,#EXTGRP:Animacion,Frozen2
 http://player.flumx.mx/Moviesmp4/Frozen2.mp4
-#EXTINF:-1 ,#EXTGRP:Animacion
+#EXTINF:-1 ,#EXTGRP:Animacion,Jefeenpañales
 http://player.flumx.mx/Moviesmp4/Jefeenpañales.mp4
-#EXTINF:-1 ,#EXTGRP:Animacion
+#EXTINF:-1 ,#EXTGRP:Animacion,un-amigo-abominable
 http://player.flumx.mx/Moviesmp4/un-amigo-abominable.mp4
-#EXTINF:-1 ,#EXTGRP:Animacion
+#EXTINF:-1 ,#EXTGRP:Animacion,Mascotasunidas
 http://player.flumx.mx/Moviesmp4/Mascotasunidas.mp4
-#EXTINF:-1 ,#EXTGRP:Animacion
+#EXTINF:-1 ,#EXTGRP:Animacion,Bob+Esponja+Al+rescate+(2020)
 http://flumx.mx/Moviesmp4/Bob+Esponja+Al+rescate+(2020).mp4
-#EXTINF:-1 ,#EXTGRP:Animacion
+#EXTINF:-1 ,#EXTGRP:Animacion,soul
 http://flumx.mx/Moviesmp4/soul.mp4
-#EXTINF:-1 ,#EXTGRP:Animacion
+#EXTINF:-1 ,#EXTGRP:Animacion,Dumbo
 http://flumx.mx/Moviesmp4/Dumbo.mp4
-#EXTINF:-1 ,#EXTGRP:Animacion
+#EXTINF:-1 ,#EXTGRP:Animacion,Bumblebee
 http://flumx.mx/Moviesmp4/Bumblebee.mp4
-#EXTINF:-1 ,#EXTGRP:Animacion
+#EXTINF:-1 ,#EXTGRP:Animacion,the-croods-2
 http://flumx.mx/Moviesmp4/the-croods-2.mp4
-#EXTINF:-1 ,#EXTGRP:Animacion
+#EXTINF:-1 ,#EXTGRP:Animacion,increibles 2
 http://193.34.144.178/Bryan/pelisdisney/increibles%201.mp4
-#EXTINF:-1 ,#EXTGRP:Animacion
+#EXTINF:-1 ,#EXTGRP:Animacion,monstruos-university
 http://flumx.mx/Moviesmp4/monstruos-university.mp4
-#EXTINF:-1 ,#EXTGRP:Animacion
+#EXTINF:-1 ,#EXTGRP:Animacion,turbo
 http://flumx.mx/Moviesmp4/turbo.mp4
-#EXTINF:-1 ,#EXTGRP:Animacion
+#EXTINF:-1 ,#EXTGRP:Animacion,coco
 http://flumx.mx/Moviesmp4/coco.mp4
-#EXTINF:-1 ,#EXTGRP:Animacion
+#EXTINF:-1 ,#EXTGRP:Animacion,como-entrenar-a-tu-dragon
 http://flumx.mx/Moviesmp4/como-entrenar-a-tu-dragon.mp4
-#EXTINF:-1 ,#EXTGRP:Animacion
+#EXTINF:-1 ,#EXTGRP:Animacion,home-hogar-dulce-hogar
 http://flumx.mx/Moviesmp4/home-hogar-dulce-hogar.mp4
-#EXTINF:-1 ,#EXTGRP:Animacion
+#EXTINF:-1 ,#EXTGRP:Animacion,un%20gran%20dinosaurio
 http://193.34.144.178/Bryan/pelisdisney/un%20gran%20dinosaurio.mp4
-#EXTINF:-1 ,#EXTGRP:Animacion
+#EXTINF:-1 ,#EXTGRP:Animacion,toy%20story
 http://193.34.144.178/Bryan/pelisdisney/toy%20story.mp4
-#EXTINF:-1 ,#EXTGRP:Animacion
+#EXTINF:-1 ,#EXTGRP:Animacion,toy%20story%2
 http://193.34.144.178/Bryan/pelisdisney/toy%20story%202.mp4
-#EXTINF:-1 ,#EXTGRP:Animacion
+#EXTINF:-1 ,#EXTGRP:Animacion,toy%20story%203
 http://193.34.144.178/Bryan/pelisdisney/toy%20story%203.mp4
-#EXTINF:-1 ,#EXTGRP:Animacion
+#EXTINF:-1 ,#EXTGRP:Animacion,Zootopia
 http://193.34.144.178/Bryan/pelisdisney/Ver%20Pelicula%20Zootopia%20Online%20Gratis.MP4
-#EXTINF:-1 ,#EXTGRP:Animacion
+#EXTINF:-1 ,#EXTGRP:Animacion, up
 http://193.34.144.178/Bryan/pelisdisney/Ver%20Pelicula%20Up,%20una%20Aventura%20de%20Altura%20Online%20Gratis.MP4
-#EXTINF:-1 ,#EXTGRP:Romantica
+#EXTINF:-1 ,#EXTGRP:Romantica,ladamayelvagabundo
 http://player.flumx.mx/Moviesmp4/ladamayelvagabundo.mp4
-#EXTINF:-1 ,#EXTGRP:Romantica
-http://player.flumx.mx/Moviesmp4/Amor+de+calendario+-+Holidate+(2020).mp4
-#EXTINF:-1 ,#EXTGRP:Romantica
-http://player.flumx.mx/Moviesmp4/LaBellaylaBestia.mp4
-#EXTINF:-1 ,#EXTGRP:Romantica
-http://player.flumx.mx/Moviesmp4/365dias.mp4
-#EXTINF:-1 ,#EXTGRP:Romantica
-http://flumx.mx/Moviesmp4/el-jardin-secreto.mp4
-#EXTINF:-1 ,#EXTGRP:Romantica
-http://flumx.mx/Moviesmp4/crepusculo-amanecer-parte-1.mp4
-#EXTINF:-1 ,#EXTGRP:Romantica
-http://flumx.mx/Moviesmp4/crepusculo-amanecer-parte-2.mp4
-#EXTINF:-1 ,#EXTGRP:Terror
-http://flumx.mx/Moviesmp4/Inquilinos.mp4
-#EXTINF:-1 ,#EXTGRP:Terror
-http://player.flumx.mx/Moviesmp4/Elconjuro1.mp4
-#EXTINF:-1 ,#EXTGRP:Terror
-http://player.flumx.mx/Moviesmp4/El-Conjuro-2.mp4
-#EXTINF:-1 ,#EXTGRP:Terror
-http://player.flumx.mx/Moviesmp4/zombieland.mp4
-#EXTINF:-1 ,#EXTGRP:Terror
-http://flumx.mx/Moviesmp4/el-titere.mp4
-#EXTINF:-1 ,#EXTGRP:Terror
-http://flumx.mx/Moviesmp4/silent-hill.mp4
-#EXTINF:-1 ,#EXTGRP:Terror
-http://flumx.mx/Moviesmp4/la-isla-de-las-almas-perdidas.mp4
-#EXTINF:-1 ,#EXTGRP:Terror
-http://flumx.mx/Moviesmp4/it-capitulo-2.mp4
-#EXTINF:-1 ,#EXTGRP:Terror
-http://flumx.mx/Moviesmp4/El-silencio-2019.mp4
-#EXTINF:-1 ,#EXTGRP:Terror
-http://flumx.mx/Moviesmp4/saw-3.mp4
-#EXTINF:-1 ,#EXTGRP:Terror
-http://flumx.mx/Moviesmp4/annabelle-2-la-creacion.mp4
-#EXTINF:-1 ,#EXTGRP:Terror
-http://flumx.mx/Moviesmp4/ouija-2-teatro-de-la-muerte.mp4
-#EXTINF:-1 ,#EXTGRP:Saga Marvel
-http://flumx.mx/Moviesmp4/Avengers-Infinity-War(2018)HD.mp4
-#EXTINF:-1 ,#EXTGRP:Saga Marvel
-http://flumx.mx/Moviesmp4/Thor(2011).mp4
-#EXTINF:-1 ,#EXTGRP:Saga Marvel
-http://flumx.mx/Moviesmp4/Thor2.mp4
-#EXTINF:-1 ,#EXTGRP:Saga Marvel
-http://flumx.mx/Moviesmp4/Thor3.mp4
-#EXTINF:-1 ,#EXTGRP:Saga Marvel
-http://flumx.mx/Moviesmp4/pantera-negra.mp4
-#EXTINF:-1 ,#EXTGRP:Saga Marvel
-http://flumx.mx/Moviesmp4/ironman2.mp4
-#EXTINF:-1 ,#EXTGRP:Saga Marvel
-http://flumx.mx/Moviesmp4/iron-man1.mp4
-#EXTINF:-1 ,#EXTGRP:Saga Marvel
-http://flumx.mx/Moviesmp4/iron-man-3.mp4
-#EXTINF:-1 ,#EXTGRP:Saga Marvel
-http://flumx.mx/Moviesmp4/el-increible-hulk.mp4
-#EXTINF:-1 ,#EXTGRP:Saga Marvel
-http://flumx.mx/Moviesmp4/ant-man-and-the-wasp.mp4
-#EXTINF:-1 ,#EXTGRP:Saga Marvel
-http://flumx.mx/Moviesmp4/capitan-america1.mp4
-#EXTINF:-1 ,#EXTGRP:Saga Marvel
-http://flumx.mx/Moviesmp4/capital-america-2.mp4
-#EXTINF:-1 ,#EXTGRP:Saga Marvel
-http://flumx.mx/Moviesmp4/captain-america-civil-war3.mp4
-#EXTINF:-1 ,#EXTGRP:Saga Marvel
-http://flumx.mx/Moviesmp4/4-fantasticos.mp4
-#EXTINF:-1 ,#EXTGRP:Saga Marvel
-http://flumx.mx/Moviesmp4/los-4-fantasticos-y-silver-surfer2.mp4
-#EXTINF:-1 ,#EXTGRP:Comedia
-http://flumx.mx/Moviesmp4/dos-rubias-de-pelo-en-pecho.mp4
 #EXTINF:-1 ,Operación Varsity Blues: Fraude universitario en EE.UU. (2021)
 http://tv.nousiptv.com:8080/movie/Elvis/1234/1084655.mkv
 #EXTINF:-1 ,Vidas de papel (2021)
@@ -456,243 +387,33 @@ https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg",Redada Asesina | REGIOFLIX
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
-#EXTINF:-1 ,#EXTGRP:unsorted
+#EXTINF:-1 ,VOLVER AL FUTURO
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
-#EXTINF:-1 ,#EXTGRP:unsorted
+#EXTINF:-1 ,RALPH EL DEMOLEDOR
 http://193.34.144.178/Bryan/pelisdisney/Ver%20%c2%a1Rompe%20Ralph!%20_%20Ralph,%20el%20demoledor%20Online%20(2012)%20-%20REPELIS%20Pel%c3%adculas%20HD.MP4
-#EXTINF:-1 ,#EXTGRP:unsorted
+#EXTINF:-1 ,GRANDES HEROES
 http://193.34.144.178/Bryan/pelisdisney/Ver%20Big%20Hero%206%20_%20Grandes%20h%c3%a9roes%20Online%20(2014)%20-%20REPELIS%20Pel%c3%adculas%20HD.MP4
-#EXTINF:-1 ,#EXTGRP:unsorted
+#EXTINF:-1 ,FROZEN
 http://193.34.144.178/Bryan/pelisdisney/Ver%20Frozen-%20El%20reino%20del%20hielo%20Online%20(2013)%20-%20REPELIS%20Pel%c3%adculas%20HD.MP4
-#EXTINF:-1 ,#EXTGRP:unsorted
+#EXTINF:-1 ,MOHANA
 http://193.34.144.178/Bryan/pelisdisney/Ver%20Moana-%20Un%20Mar%20de%20Aventuras%20(2016)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
-#EXTINF:-1 ,#EXTGRP:unsorted
+#EXTINF:-1 ,LILO & STICH
 http://193.34.144.178/Bryan/pelisdisney/Ver%20Pelicula%20Lilo%20y%20Stitch%201%20Online%20Gratis.MP4
-#EXTINF:-1 ,#EXTGRP:unsorted
+#EXTINF:-1 ,BUSCANDO A NEMO
 http://193.34.144.178/Bryan/pelisdisney/buscando%20a%20nemo.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
+#EXTINF:-1 ,cars3
 http://193.34.144.178/Bryan/pelisdisney/cars3.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
+#EXTINF:-1 ,cars2
 http://193.34.144.178/Bryan/pelisdisney/cars%202.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
+#EXTINF:-1 ,BUSCANDOA DORY
 http://193.34.144.178/Bryan/pelisdisney/dory.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
+#EXTINF:-1 ,intensamente
 http://193.34.144.178/Bryan/pelisdisney/intensamente.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/pelisdisney/mula.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Conquest%20(2019)%20LAT.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Happy.Death.Day.2U.BRS.LAT.mkv.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/On+the+Basis+of+Sex+(2018)+1080p+Latino.mkv.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Sup3rL0pezHDRf.Castellano.avi.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/The.Dirt.1080p.Latinof.mkv.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20Annabelle%20vuelve%20a%20casa%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20Assassination%20Nation%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20Bajo%20el%20mismo%20techo%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.MP4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20Buffalo%20Boys%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv_2.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20Capit%c3%a1n%20Phillips%20(2013)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
-#EXTINF:-1 ,#EXTGRP:unsorted
+#EXTINF:-1 ,CAPITANA MARVEL
 http://193.34.144.178/Bryan/Peliculas/Ver%20Capitana%20Marvel%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.MP4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20Cementerio%20de%20animales%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20Dumbo%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.MP4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20Ederlezi%20Rising%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.MP4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20El%20canto%20del%20lobo%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20El%20ni%c3%b1o%20que%20dom%c3%b3%20el%20viento%20-%20(HD%201080p)%20-%20Audio%20Latino%20-%20DoomTV_2.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20El%20s%c3%b3tano%20de%20Ma%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20Five%20Feet%20Apart%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
+#EXTINF:-1 ,GODZILLA REY DE LOS MOUNSTRUOS
 http://193.34.144.178/Bryan/Peliculas/Ver%20Godzilla%20II-%20Rey%20de%20los%20monstruos%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20Hotel%20Mumbai%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20La%20Llorona%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20La%20Terminal%20(The%20Terminal)%20(2004)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20Little%20Italy%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20Mascotas%202%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.MP4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20Mira%20la%20chica%20del%20tren%20Online%20Gratis%20HD%20-%20Cuevana3.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20N%c3%a1ufrago%20(2000)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20No%20manches%20Frida%202%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20Oh,%20Ramona!%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.MP4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20Pokemon-%20Detective%20Pikachu%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20Quiet%20Comes%20the%20Dawn%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20Richard%20Says%20Goodbye%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20Rock%20my%20Heart%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
+#EXTINF:-1 ,SHAZAM
 http://193.34.144.178/Bryan/Peliculas/Ver%20Shazam!%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.MP4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20T-34%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20The%20Good%20Girls%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv_2.MP4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20The%20Mustang%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20White%20Boy%20Rick%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20X-Men-%20Fenix%20Oscura%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/Ver%20X-Men-%20Fenix%20Oscura%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv_2.MP4
-#EXTINF:-1 ,#EXTGRP:unsorted
+#EXTINF:-1 ,END GAME
 http://193.34.144.178/Bryan/Peliculas/end%20game.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/green%20book.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/highwaymen.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/hope%20springs.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/la%20extraordinaria%20de%20fekir.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/men%20want.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/nevois%20mutantes.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/the%20prodigi.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/timefreak.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://193.34.144.178/Bryan/Peliculas/vengsnza%20bajo%20cero.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://goo.gl/sFaEVq
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://bit.ly/MRAQCSAND
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://bit.ly/THEMINE
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://cdn.pavideohost.com/contents/s/f8/bf/ef/87176e28b664c08d498c486fda/720p/01316773599972.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://ow.ly/FXZ930eWtrs
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://cecegeek@goo.gl/FDyHpL
-#EXTINF:-1 ,#EXTGRP:unsorted
-http://cecegeek@goo.gl/kyH56Z
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%21117&authkey=AOHQ65nCGoFIA3M
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://onedrive.live.com/download.aspx?resid=83233C94E1E9D14B!334&authkey=!AH2r-0cLqrTJFSg
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://archive.org/download/24052017Aqc789423784723984/24052017_aqc.mkv?Pelixmax1.mkv
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://archive.org/download/08052017CAQM8844JR8HF/08052017CAQM.mkv?Pelixmax1.mkv
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://archive.org/download/080520712070508aCh/08052071.mkv?Pelixmax1.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://archive.org/download/08052017Ch2320170508/08052017_ch23.mkv?Pelixmax1.mp4
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://lh3.googleusercontent.com/MweLhRyKTuAKLL6tBSUki2vJK07lhs893cVUl3QOoUnupyqSVs5E6j_s5oO5ki68KguDrT9FK08QBRpTBsDwWJaBGZBz0m2zixDTcnxaJZLjJBCWcGXJShHA_WhLcv-9yb1Ke7MC2Q=m22
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://goo.gl/SyvNCX
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://goo.gl/nQXbQ5
-#EXTINF:-1 ,#EXTGRP:unsorted
-https://goo.gl/gWJEZq
-#EXTINF:-1 ,#EXTGRP:Without category
-http://bit.ly/MRAQCCHUCK
-#EXTINF:-1 ,#EXTGRP:Without category
-http://bit.ly/2w5zZIw
-#EXTINF:-1 ,#EXTGRP:MOVIES
-https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
-#EXTINF:-1 ,#EXTGRP:MEXICO
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 ,#EXTGRP:MEXICO
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 ,#EXTGRP:MEXICO
-http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 ,#EXTGRP:MEXICO
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1 ,#EXTGRP:MEXICO
-http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
-#EXTINF:-1 ,#EXTGRP:MEXICO
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-#EXTINF:-1 ,#EXTGRP:MEXICO
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-#EXTINF:-1 ,#EXTGRP:SALVADOR
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 ,#EXTGRP:CHILE
-http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
-#EXTINF:-1 ,#EXTGRP:CHILE
-http://camara.02.cl.cdnz.cl/cdndvr/ngrp:live_all/playlist.m3u8?DVR
-#EXTINF:-1 ,#EXTGRP:CHILE
-http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
-#EXTINF:-1 ,#EXTGRP:CHILE
-http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
-#EXTINF:-1 ,#EXTGRP:NOTICIAS
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
-#EXTINF:-1 ,#EXTGRP:NOTICIAS
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 ,#EXTGRP:NOTICIAS
-https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:-1 ,#EXTGRP:NOTICIAS
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
-#EXTINF:-1 ,#EXTGRP:NOTICIAS
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
-#EXTINF:-1 ,#EXTGRP:NOTICIAS
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_politics.m3u8
-#EXTINF:-1 ,#EXTGRP:NOTICIAS
-https://liveproduseast.akamaized.net/btv/desktop/us_event.m3u8
-#EXTINF:-1 ,#EXTGRP:NOTICIAS
-https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
-#EXTINF:-1 ,#EXTGRP:NOTICIAS
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
-#EXTINF:-1 ,#EXTGRP:NOTICIAS
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 ,#EXTGRP:NOTICIAS
-http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
-#EXTINF:-1 ,#EXTGRP:NOTICIAS
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 ,#EXTGRP:NOTICIAS
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 ,#EXTGRP:NOTICIAS
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
