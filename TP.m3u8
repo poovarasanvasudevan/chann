@@ -81,22 +81,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7tbl5cx
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7tbl5cxb73ssv0i&lchId=1729&format=HLS&f=.m3u8
 #EXTINF:-1 ,FOX CLASSICS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7tbl5cxb73ssv0i&lchId=1732&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s24553_h3_aa.png",HBO Latino East HD
-http://latvonlive.com:33612/Norma110/Latv9/29
-#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s19548_h3_aa.png",HBO HD
-http://latvonlive.com:33612/Norma110/Latv9/601
-#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s68140_h3_aa.png",HBO 2 HD
-http://latvonlive.com:33612/Norma110/Latv9/603
-#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s16585_h3_aa.png",HBO Family HD
-http://latvonlive.com:33612/Norma110/Latv9/602
-#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/hboMundi.png",HBO Mundi HD
-http://latvonlive.com:33612/Norma110/Latv9/594
-#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s16797_h3_aa.png",HBO Plus HD
-http://latvonlive.com:33612/Norma110/Latv9/600
-#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/hboPOP.png",HBO POP HD
-http://latvonlive.com:33612/Norma110/Latv9/593
-#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s74450_h3_aa.png",HBO Signature HD
-http://latvonlive.com:33612/Norma110/Latv9/599
 #EXTINF:-1 ,TNT SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7tbl5cxb73ssv0i&lchId=71&format=HLS&f=.m3u8
 #EXTINF:-1 ,TNT
