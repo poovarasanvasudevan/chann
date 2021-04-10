@@ -1,6 +1,18 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://dam.smashmexico.com.mx/wp-content/uploads/2020/05/Justice-league-zack-snyder-cut-estreno-hbo-max-cover.jpg",Liga de la Justicia de Zack Snyder
 https://archive.org/download/dqjBR3Jx5q8/dqjBR3Jx5q8.ia.mp4
+#EXTINF:-1  tvg-logo="https://www.cinemascomics.com/wp-content/uploads/2021/01/trailer-godzilla-vs-kong-960x720.jpg?mrf-size=m" ,KING KONG VS GODZILLA 2021
+https://vod-normal-global-cdn-z01.afreecatv.com/v3/afflv14/_definst_/mp4:save/afreeca/station/2021/0331/23/1617202499392311.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdnvos.lavoz.com.ar/sites/default/files/styles/box_128/public/nota_periodistica/principe_1614604250.jpg" , 2 America 2021
+http://series.vodcontetmx.info/movies/dual/Coming_2_America_2021(484718)/Coming_2_America_2021.mkv
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6498/6a0ad5b6544ffbb221dc6ee5d0ae55f34e1f15de_128.jpg" ,PIRATAS DEL CARIBE_navegando_aguas_misteriosas
+http://series.vodcontetmx.info/movies/espanol/Pirates_of_the_Caribbean_On_Stranger_Tides_2011(1865)/piratas_del_caribe_navegando_aguas_misteriosas.mp4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6498/6a0ad5b6544ffbb221dc6ee5d0ae55f34e1f15de_128.jpg" ,PIRATAS DEL CARIBE- El cofre de la muerte
+http://series.vodcontetmx.info/movies/espanol/Pirates_of_the_Caribbean_Dead_Mans_Chest_2006(58)/piratas_del_caribe_el_cofre_de_la_muerte.mp4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6498/6a0ad5b6544ffbb221dc6ee5d0ae55f34e1f15de_128.jpg" ,PIRATAS DEL CARIBE- of course the black pearl
+http://xcodes.aftertv.xyz:8080/movie/Jami/1234/7758.mkv
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6498/6a0ad5b6544ffbb221dc6ee5d0ae55f34e1f15de_128.jpg" ,Piratas del Caribe- En el fin del Mundo
+http://series.vodcontetmx.info/movies/espanol/Pirates_of_the_Caribbean_At_Worlds_End_2007(285)/piratas_del_caribe_en_el_fin_del_mundo.mp4
 #EXTINF:-1  tvg-logo="https://archive.org/download/12_20210329_20210329/12.png",Wonder Woman 84
 https://archive.org/download/ww-1984_202103/WW1984.mkv
 #EXTINF:-1  tvg-logo="https://archive.org/download/12_20210329_20210329/12.png",Wonder Woman 84 opcion 2
