@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-GVKVCBZ1ryg/YBsb5fRaNOI/AAAAAAAA_qk/6puCkYZaRUkrhUHzzMnHGL2CUMO94ij2ACK8BGAsYHg/s0/2021-02-03.png",Boomerang
-http://8.9.4.128:8080/hls/boomerangtv.m3u8?PlaylistM3UCL
-http://saypopular.com:25461/oscar/20gar/52258
 #EXTINF:-1 group-title="SPANISH",CO|| Win Sports Opc2
 http://saypopular.com:25461/oscar/20gar/52264
 #EXTINF:-1 group-title="SPANISH",EL: Telemundo Miami
@@ -12,8 +9,6 @@ http://saypopular.com:25461/oscar/20gar/52714
 http://saypopular.com:25461/oscar/20gar/52715
 #EXTINF:-1 group-title="SPANISH",Latino | ADN40
 http://saypopular.com:25461/oscar/20gar/52716
-#EXTINF:-1 group-title="SPANISH",Latino | Affizionados
-http://saypopular.com:25461/oscar/20gar/52717
 #EXTINF:-1 group-title="SPANISH",Latino | AMC
 http://saypopular.com:25461/oscar/20gar/52718
 #EXTINF:-1 group-title="SPANISH",Latino | Antena 3
@@ -44,10 +39,6 @@ http://saypopular.com:25461/oscar/20gar/52731
 http://saypopular.com:25461/oscar/20gar/52732
 #EXTINF:-1 group-title="SPANISH",Latino | Canal 11
 http://saypopular.com:25461/oscar/20gar/52733
-#EXTINF:-1 group-title="SPANISH",Latino | Canal 5
-http://saypopular.com:25461/oscar/20gar/52734
-#EXTINF:-1 group-title="SPANISH",Latino | Canal De Las Estrellas
-http://saypopular.com:25461/oscar/20gar/52735
 #EXTINF:-1 group-title="SPANISH",Latino | Caracol INT
 http://saypopular.com:25461/oscar/20gar/52736
 #EXTINF:-1 group-title="SPANISH",Latino | Cartoon Network
@@ -98,14 +89,6 @@ http://saypopular.com:25461/oscar/20gar/52758
 http://saypopular.com:25461/oscar/20gar/52759
 #EXTINF:-1 group-title="SPANISH",Latino | E!
 http://saypopular.com:25461/oscar/20gar/52760
-#EXTINF:-1 group-title="SPANISH",Latino | El Garage
-http://saypopular.com:25461/oscar/20gar/52761
-#EXTINF:-1 group-title="SPANISH",Latino | El Gourmet
-http://saypopular.com:25461/oscar/20gar/52762
-#EXTINF:-1 group-title="SPANISH",Latino | ESPN
-http://saypopular.com:25461/oscar/20gar/52763
-#EXTINF:-1 group-title="SPANISH",Latino | ESPN 2
-http://saypopular.com:25461/oscar/20gar/52764
 #EXTINF:-1 group-title="SPANISH",Latino | ESPN 3
 http://saypopular.com:25461/oscar/20gar/52765
 #EXTINF:-1 group-title="SPANISH",Latino | ESPN Deportes
@@ -164,18 +147,8 @@ http://saypopular.com:25461/oscar/20gar/52791
 http://saypopular.com:25461/oscar/20gar/52792
 #EXTINF:-1 group-title="SPANISH",Latino | HBO Family
 http://saypopular.com:25461/oscar/20gar/52793
-#EXTINF:-1 group-title="SPANISH",Latino | HBO Plus
-http://saypopular.com:25461/oscar/20gar/52794
-#EXTINF:-1 group-title="SPANISH",Latino | HBO Signature
-http://saypopular.com:25461/oscar/20gar/52795
-#EXTINF:-1 group-title="SPANISH",Latino | History 2
-http://saypopular.com:25461/oscar/20gar/52796
-#EXTINF:-1 group-title="SPANISH",Latino | History Channel
-http://saypopular.com:25461/oscar/20gar/52797
 #EXTINF:-1 group-title="SPANISH",Latino | Lifetime
 http://saypopular.com:25461/oscar/20gar/52800
-#EXTINF:-1 group-title="SPANISH",Latino | Max Prime
-http://saypopular.com:25461/oscar/20gar/52802
 #EXTINF:-1 group-title="SPANISH",Latino | Max UP
 http://saypopular.com:25461/oscar/20gar/52803
 #EXTINF:-1 group-title="SPANISH",Latino | Mexiquense
@@ -218,12 +191,8 @@ http://saypopular.com:25461/oscar/20gar/52825
 http://saypopular.com:25461/oscar/20gar/52827
 #EXTINF:-1 group-title="SPANISH",Latino | Telemundo Int
 http://saypopular.com:25461/oscar/20gar/52828
-#EXTINF:-1 group-title="SPANISH",Latino | TLnovelas
-http://saypopular.com:25461/oscar/20gar/52829
 #EXTINF:-1 group-title="SPANISH",Latino | TNT
 http://saypopular.com:25461/oscar/20gar/52830
-#EXTINF:-1 group-title="SPANISH",Latino | TNT Series
-http://saypopular.com:25461/oscar/20gar/52831
 #EXTINF:-1 group-title="SPANISH",Latino | Tooncast
 http://saypopular.com:25461/oscar/20gar/52832
 #EXTINF:-1 group-title="SPANISH",Latino | TUDN
@@ -270,20 +239,10 @@ http://saypopular.com:25461/oscar/20gar/179376
 http://saypopular.com:25461/oscar/20gar/179377
 #EXTINF:-1 group-title="SPANISH",Latino | DTVS 1
 http://saypopular.com:25461/oscar/20gar/179378
-#EXTINF:-1 group-title="SPANISH",Latino | DTVS 2
-http://saypopular.com:25461/oscar/20gar/179379
-#EXTINF:-1 group-title="SPANISH",Latino | DTVS +
-http://saypopular.com:25461/oscar/20gar/179380
-#EXTINF:-1 group-title="MUSIC",MC Video | 90's - DIRECT
-http://saypopular.com:25461/oscar/20gar/54978
-#EXTINF:-1 group-title="MUSIC",MC Video | Alternative - DIRECT
-http://saypopular.com:25461/oscar/20gar/54979
 #EXTINF:-1 group-title="MUSIC",MC Video | Brits + Hits - DIRECT
 http://saypopular.com:25461/oscar/20gar/54980
 #EXTINF:-1 group-title="MUSIC",MC Video | Dance/ EDM - DIRECT
 http://saypopular.com:25461/oscar/20gar/54981
-#EXTINF:-1 group-title="MUSIC",MC Video | Hip-Hop and R&B - DIRECT
-http://saypopular.com:25461/oscar/20gar/54982
 #EXTINF:-1 group-title="MUSIC",MC Video | Hit List - DIRECT
 http://saypopular.com:25461/oscar/20gar/54983
 #EXTINF:-1 group-title="MUSIC",MC Video | Indie - DIRECT
@@ -324,5 +283,3 @@ http://saypopular.com:25461/oscar/20gar/55000
 http://saypopular.com:25461/oscar/20gar/55001
 #EXTINF:-1 group-title="MUSIC",MC Video | Toddler Tunes - DIRECT
 http://saypopular.com:25461/oscar/20gar/55002
-#EXTINF:-1 group-title="MUSIC",MC Video | Tropicales - DIRECT
-http://saypopular.com:25461/oscar/20gar/55003
