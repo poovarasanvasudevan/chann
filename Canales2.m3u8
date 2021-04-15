@@ -55,36 +55,6 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/DISNEYXD/20-hls/live-media.m3
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISNEYJUNIOR/20-hls/live-media.m3u8
 #EXTINF:-1 group-title="INFANTIL" tvg-logo="https://cablego.com.pe/cache/logos/DISNEYCHANNEL.png",DISNEY CHANNEL
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISNEYCHANNEL/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://latvonlive.com:38261/Logos/all/s46275_h3_aa.png",Yes Network HD
-http://latvonlive.com:33612/Norma110/Latv9/895
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://latvonlive.com:38261/Logos/all/s56036_h3_aa.png",BabyTV Español
-http://latvonlive.com:33612/Norma110/Latv9/235
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://latvonlive.com:38261/Logos/all/s21883_h3_aa.png",Boomerang Latinoamérica
-http://latvonlive.com:33612/Norma110/Latv9/34
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://latvonlive.com:38261/Logos/all/s16141_h3_aa.png",Cartoon Network HD
-http://latvonlive.com:33612/Norma110/Latv9/39
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://latvonlive.com:38261/Logos/all/s99630_h3_aa.png",Discovery Familia HD
-http://latvonlive.com:33612/Norma110/Latv9/921
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://latvonlive.com:38261/Logos/all/s81239_h3_aa.png",Discovery Kids HD
-http://latvonlive.com:33612/Norma110/Latv9/622
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://latvonlive.com:38261/Logos/all/s81235_h3_aa.png",Disney HD
-http://latvonlive.com:33612/Norma110/Latv9/636
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://latvonlive.com:38261/Logos/all/s60506_h3_aa.png",Disney Junior HD
-http://latvonlive.com:33612/Norma110/Latv9/37
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://latvonlive.com:38261/Logos/all/s54930_h3_aa.png",Disney XD Latinoamérica
-http://latvonlive.com:33612/Norma110/Latv9/496
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://latvonlive.com:38261/Logos/all/s104524_h3_aa.png",Nat Geo Kids HD
-http://latvonlive.com:33612/Norma110/Latv9/589
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://latvonlive.com:38261/Logos/all/s16707_h3_aa.png",Nick HD
-http://latvonlive.com:33612/Norma110/Latv9/586
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://latvonlive.com:38261/Logos/Variados/Infantiles_-_Nick_2_HD.png",TeenNick Latinoamérica
-http://latvonlive.com:33612/Norma110/Latv9/417
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://latvonlive.com:38261/Logos/all/s60295_h3_aa.png",Nick Jr HD
-http://latvonlive.com:33612/Norma110/Latv9/587
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://latvonlive.com:38261/Logos/all/s30420_h3_aa.png",Nick Music Latinoamérica
-http://latvonlive.com:33612/Norma110/Latv9/752
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://latvonlive.com:38261/Logos/all/s63109_h3_aa.png",Tooncast
-http://latvonlive.com:33612/Norma110/Latv9/639
 #EXTINF:-1 group-title="INFANTIL" tvg-logo="https://cablego.com.pe/cache/logos/NICKJR.png",NICKJR
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NICKJR/20-hls/live-media.m3u8
 #EXTINF:-1 group-title="INFANTIL" tvg-logo="https://cablego.com.pe/cache/logos/ZOOMOO.png",ZOOMOO
