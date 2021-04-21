@@ -3,6 +3,8 @@
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/VENUS/20-hls/live-media.m3u8
 #EXTINF:-1 group-title="ADULTOSN" tvg-logo="https://cablego.com.pe/cache/logos/PLAYBOY.png",PLAYBOY
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PLAYBOY/20-hls/live-media.m3u8
+#EXTINF:-1,Penthouse
+http://200.115.190.211:8000/play/32KrDbK8nSLJr5EN/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="XXX BRASILEIRINHAS: AGORA E HORA DAS PODEROSAS" tvg-logo="" group-title="24horas",XXX BRASILEIRINHAS: AGORA E HORA DAS PODEROSAS
 http://stream20gbps.ml:80/live/CFSPLAY/lhSoXwXt9O/504.m3u8
