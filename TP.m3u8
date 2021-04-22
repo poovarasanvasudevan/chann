@@ -249,6 +249,14 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2373&format=HLS&f=.m3u8
 #EXTINF:-1 ,NATIONAL GEOGRAFIC HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=91&format=HLS&f=.m3u8
+#EXTINF:-1 ,HISTORY 2
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7tbl5cxb73ssv0i&lchId=89&format=HLS&f=.m3u8
+#EXTINF:-1 ,NATGEO
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7tbl5cxb73ssv0i&lchId=91&format=HLS&f=.m3u8
+#EXTINF:-1 ,WILD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7tbl5cxb73ssv0i&lchId=92&format=HLS&f=.m3u8
+#EXTINF:-1 ,THEATER
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7tbl5cxb73ssv0i&lchId=95&format=HLS&f=.m3u8
 #EXTINF:-1 ,TRU TV HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=215&format=HLS&f=.m3u8
 #EXTINF:-1 ,PLUTO VIAJES HD
