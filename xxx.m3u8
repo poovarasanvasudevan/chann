@@ -5,6 +5,24 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/VENUS/20-hls/live-media.m3u8
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PLAYBOY/20-hls/live-media.m3u8
 #EXTINF:-1,Penthouse
 http://200.115.190.211:8000/play/32KrDbK8nSLJr5EN/index.m3u8
+#EXTINF:-1 group-title="PORTUGAL FHD",PT: HOT ®
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2387
+#EXTINF:-1 group-title="PORTUGAL H.265",PT: HOT @576_hevc
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2388
+#EXTINF:-1 group-title="PORTUGAL HD",PT: HOT @576p
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2389
+#EXTINF:-1 group-title="PORTUGAL FHD",PT: Playboy TV ®
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2390
+#EXTINF:-1 group-title="PORTUGAL H.265",PT: PlayboyTV @576_hevc
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2391
+#EXTINF:-1 group-title="PORTUGAL HD",PT: PlayboyTV @576p
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2392
+#EXTINF:-1 group-title="PORTUGAL FHD",PT: Venus ®
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2393
+#EXTINF:-1 group-title="PORTUGAL H.265",PT: Venus @576_hevc
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2394
+#EXTINF:-1 group-title="PORTUGAL HD",PT: Venus @576p
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2395
 
 #EXTINF:-1 group-title="ADULTOS",AST TV 1
 http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4736
