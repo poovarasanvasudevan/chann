@@ -1,4 +1,104 @@
 #EXTM3U
+#EXTINF:-1 group-title="USA",*** Canales USA Online***
+https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/YNdQXDz.jpg",AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5be4c6311843b56328bce619/featuredImage.jpg",Animation (Pluto)
+https://stitcher.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.pinimg.com/originals/d2/4b/b0/d24bb0b8b62cd58ad6d1d99b720d5e54.jpg",Anime All Day
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=72d1521a-198f-4929-9ed3-4f6fe175d21b&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/GmSyxeP.png",American Classic TV
+https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/ENtRDds.png",American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.s5x6UOZ4lO-yWBb1xA85qQAAAA&pid=Api&P=0&w=234&h=177",Bob Ross Channel
+https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s110483_dark_360w_270h.png",Con TV
+https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/q2jim9n.png",Dust
+https://dust.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/KtdEoox.png",Flashback TV
+http://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.ytimg.com/vi/prPDVF5dfF0/maxresdefault.jpg",Futurism
+https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/yfEizcN.png",Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s92160_dark_360w_270h.png",ADULT SWIM (US)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/676925
+#EXTINF:-1 group-title="USA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s12131_dark_360w_270h.png",CARTOON NETWORK HD (US)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/14387
+#EXTINF:-1 group-title="USA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s12131_dark_360w_270h.png",CARTOON NETWORK HD (US) (2)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/4886
+#EXTINF:-1 group-title="USA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18822_dark_360w_270h.png",VICELAND HD (US)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/667813
+#EXTINF:-1 group-title="USA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18279_dark_360w_270h.png",DINSNEY XD (US)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/14368
+#EXTINF:-1 group-title="USA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s14321_dark_360w_270h.png",FX (US)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/13763
+#EXTINF:-1 group-title="USA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17927_dark_360w_270h.png",FXX HD (US)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/13756
+#EXTINF:-1 group-title="USA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10149_dark_360w_270h.png",COMEDY CENTRAL (US)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/4882
+#EXTINF:-1 group-title="USA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10240_dark_360w_270h.png",HBO (US)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/685038
+#EXTINF:-1 group-title="USA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10986_dark_360w_270h.png",MTV (US)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/14342
+#EXTINF:-1 group-title="USA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s12852_dark_360w_270h.png",TURNER CLASSIC MOVIES (US)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/677203
+#EXTINF:-1 group-title="USA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18332_dark_360w_270h.png",BBC AMERICA US
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/14392
+#EXTINF:-1 group-title="USA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11163_dark_360w_270h.png",PARAMOUNT HF (US)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/677220
+#EXTINF:-1 group-title="USA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18718_dark_360w_270h.png",SOUL (US)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/661091
+#EXTINF:-1 group-title="USA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11218_dark_360w_270h.png",VH1 HD (US)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/6753
+#EXTINF:-1 group-title="Canada" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17398_dark_360w_270h.png",CBC TORONTO HD CA
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/632775
+#EXTINF:-1 group-title="Canada" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s34200_dark_360w_270h.png",CITY TORONTO HD CA
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/37082
+#EXTINF:-1 group-title="Canada" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s76221_dark_360w_270h.png",CARTOON NETWORK CA
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/632738
+#EXTINF:-1 group-title="Canada" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s72139_dark_360w_270h.png",MUCH MUSIC HD CA
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/632661
+#EXTINF:-1 group-title="Canada" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80175_dark_360w_270h.png",NICK HD CA
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/632654
+#EXTINF:-1 group-title="(no group)",CBC VANCOUVER HD CA
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/632774
+#EXTINF:-1 group-title="Europa" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17153_dark_360w_270h.png",BBC ONE HD (UK)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/671711
+#EXTINF:-1 group-title="Europa" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17154_dark_360w_270h.png",BBC TWO HD (UK)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/671712
+#EXTINF:-1 group-title="Europa" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s83282_dark_360w_270h.png",BBC FOUR HD (UK)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/671388
+#EXTINF:-1 group-title="Europa" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80561_dark_360w_270h.png",BBC ENTERTAINMENT (UK)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/9548
+#EXTINF:-1 group-title="Europa" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s78843_dark_360w_270h.png",CARTOON NETWORK HD (US)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/671326
+#EXTINF:-1 group-title="Europa" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17420_dark_360w_270h.png",COMEDY CENTRAL HD (UK)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/683746
+#EXTINF:-1 group-title="Europa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdRFu3N8CjNiFxRqrWqNHRAWJJ8ROhDN8SKE5mLzE_oJ4NXP4",FASHION HD (UK)
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 group-title="Europa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png",FASHION TV MIDNITE (UK)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Europa" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s58972_dark_360w_270h.png",FOX HD (UK)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/6604
+#EXTINF:-1 group-title="Europa" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s42762_dark_360w_270h.png",HORROR CHANNEL (UK)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/683748
+#EXTINF:-1 group-title="Europa" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84926_dark_360w_270h.png",LONDON LIVE (UK)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/6583
+#EXTINF:-1 group-title="Europa" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s31168_dark_360w_270h.png",NICKTOONS (UK)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/6570
+#EXTINF:-1 group-title="Europa" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s49612_dark_360w_270h.png",SKY ARTS HD (UK)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/684070
+#EXTINF:-1 group-title="Europa" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18822_dark_360w_270h.png",VICE HD (UK)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/13219
+#EXTINF:-1 group-title="Europa" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s30453_dark_360w_270h.png",VIRGIN MEDIA ONE HD (UK)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/683786
+#EXTINF:-1 group-title="Europa" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s54800_dark_360w_270h.png",VIRGIN MEDIA TWO HD (UK)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/683846
+#EXTINF:-1 group-title="Europa" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s102339_dark_360w_270h.png",VIRGIN MEDIA THREE HD (UK)
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/671353
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Ocro6qo.png",AMG TV
 https://tinyurl.com/y2huroze
 #EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/58af4c093a41ca9d4ecabe96/featuredImage.jpg?w=256",Black Cinema
@@ -13,8 +113,6 @@ https://tinyurl.com/yyp5munq
 https://tinyurl.com/y2jk3chr
 #EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5f99e24636d67d0007a94e6d/featuredImage.jpg?w=256",Comedy Central Animation
 https://tinyurl.com/yybewna9
-#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5ca675d6593a5d78f0e85c2e/colorLogoPNG.png?w=256",Comedy Central Stand Up
-https://tinyurl.com/y5uptxte
 #EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5b85a7582921777994caea63/featuredImage.jpg?w=256",Documentaries
 https://tinyurl.com/y4qg3xb8
 #EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5b4e92e4694c027be6ecece1/featuredImage.jpg?w=256",Drama
