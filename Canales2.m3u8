@@ -1,105 +1,229 @@
 #EXTM3U
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://cablego.com.pe/cache/logos/SONY.png",SONY
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SONY/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://cablego.com.pe/cache/logos/WARNERCHANNEL.png",WARNER CHANNEL HD
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/WARNERCHANNEL/40-hls/live-media.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png",UNIVERSAL
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/UNIVERSAL/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://cablego.com.pe/cache/logos/ID.png",ID
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ID/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://cablego.com.pe/cache/logos/CINEPREMIUM.png",CINE PREMIUM
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CINEPREMIUM/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://cablego.com.pe/cache/logos/SYFY.png",SYFY
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SYFY/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://cablego.com.pe/cache/logos/AMC.png",AMC
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMC/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://cablego.com.pe/cache/logos/CINECLICK.png",CINE CLICK
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CINECLICK/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://cablego.com.pe/cache/logos/PARAMOUNTCH.png",PARAMOUNT CHANNEL
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNTCHANNEL/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://cablego.com.pe/cache/logos/CINECANAL.png",CINECANAL HD
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CINECANAL/40-hls/live-media.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYCHANNEL.png",DISCOVERY CHANNEL
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYCH/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://cablego.com.pe/cache/logos/HISTORYCHANNEL.png",HISTORY CHANNEL
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HISTORYCHANNEL/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://cablego.com.pe/cache/logos/HISTORY2.png",HISTORY 2
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/HISTORY2/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://cablego.com.pe/cache/logos/NATGEO.png",NATGEO
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NATGEO/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://cablego.com.pe/cache/logos/ANIMALPLANET.png",ANIMAL PLANET
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYSCIENCE.png",DISCOVERY SCIENCE
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYSCIENCE/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYTURBO.png",DISCOVERY TURBO
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTURBO/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://cablego.com.pe/cache/logos/AZCORAZON.png",AZ CORAZON
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://cablego.com.pe/cache/logos/KANALD.png",KANAL D
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/KANALD/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://cablego.com.pe/cache/logos/HOMEANDHEALTH.png",HOME & HEALTH
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://cablego.com.pe/cache/logos/TRAVELANDLIVING.png",TRAVELAND LIVING
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TRAVELANDLIVING/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://cablego.com.pe/cache/logos/MASCHIC.png",MAS CHIC
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/MASCHIC/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://cablego.com.pe/cache/logos/FOXLIFE.png",FOX LIFE
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXLIFE/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://cablego.com.pe/cache/logos/GOURMET.png",GOURMET
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/GOURMET/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYKIDS.png",DISCOVERY KIDS
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYKIDS/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://cablego.com.pe/cache/logos/DISNEYXD.png",DISNEY XD
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/DISNEYXD/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://cablego.com.pe/cache/logos/DISNEYJUNIOR.png",DISNEY JUNIOR
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISNEYJUNIOR/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://cablego.com.pe/cache/logos/DISNEYCHANNEL.png",DISNEY CHANNEL
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISNEYCHANNEL/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://cablego.com.pe/cache/logos/NICKJR.png",NICKJR
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NICKJR/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://cablego.com.pe/cache/logos/ZOOMOO.png",ZOOMOO
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ZOOMOO/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://cablego.com.pe/cache/logos/NATGEOKIDS.png",NATGEO KIDS
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NATGEOKIDS/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://cablego.com.pe/cache/logos/FOXSPORTS.png",FOXSPORTS HD
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://cablego.com.pe/cache/logos/FOXSPORTS2.png",FOXS PORTS 2 HD
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.m3u8
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://cablego.com.pe/cache/logos/FOXSPORTS3.png",FOX SPORTS 3 HD
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://cablego.com.pe/cache/logos/ESPN2.png",ESPN2 HD
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://cablego.com.pe/cache/logos/ESPN3.png",ESPN3
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN3/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="TOUR DE CORRESPONSAL" tvg-logo="https://cablego.com.pe/cache/logos/FRANCE24.png",FRANCE24 HD
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FRANCE24/40-hls/live-media.m3u8
-#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://cablego.com.pe/cache/logos/RTRUSIA.png",RT RUSIA
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/RTRUSIA/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="RELIGION" tvg-logo="https://cablego.com.pe/cache/logos/DW.png",DW
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DW/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://cablego.com.pe/cache/logos/MTV.png",MTV
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/MTV/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="MUSICA LOCAL" tvg-logo="https://cablego.com.pe/cache/logos/KARIBENA.png",KARIBEÑA
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/karibena/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="TELE NOSTALGIA" tvg-logo="https://cablego.com.pe/cache/logos/TELENOSTALGIA.png",TELENOSTALGIA
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELENOSTALGIA/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="INTERNACIONALES" tvg-logo="https://cablego.com.pe/cache/logos/TELEFE.png",TELEFE
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEFE/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="INTERNACIONALES" tvg-logo="https://cablego.com.pe/cache/logos/TRECEARGENTINA.png",TRECE ARGENTINA
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="INTERNACIONALES" tvg-logo="https://cablego.com.pe/cache/logos/TVE.png",TVE HD
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVE/40-hls/live-media.m3u8
-#EXTINF:-1 group-title="INTERNACIONALES" tvg-logo="https://cablego.com.pe/cache/logos/TVCHILE.png",TV CHILE
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVCHILE/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://cablego.com.pe/cache/logos/LIFETIME.png",LIFETIME
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/LIFETIME/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="INTERNACIONALES" tvg-logo="https://cablego.com.pe/cache/logos/HGTV.png",HGTV
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/HGTV/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="INTERNACIONALES" tvg-logo="https://cablego.com.pe/cache/logos/NATGEOWILD.png",NATGEOWILD
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NATGEOWILD/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://cablego.com.pe/cache/logos/AXN.png",AXN
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AXN/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://cablego.com.pe/cache/logos/FXM.png",FXM
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FXM/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="INTERNACIONALES" tvg-logo="https://cablego.com.pe/cache/logos/TELEMUNDO.png",TELEMUNDO
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8
+#EXTINF:-1 ,#EXTGRP:MEXICO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=7&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:MEXICO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1784&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:MEXICO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2606&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:MEXICO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1785&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:MEXICO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=322&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:MEXICO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2316&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:MEXICO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1783&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:MEXICO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1942&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:MEXICO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=11&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:MEXICO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=70&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:MEXICO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=84&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:MEXICO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=32&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:MEXICO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=44&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:MEXICO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2149&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:MEXICO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2156&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:MEXICO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2324&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:INFANTIL
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=108&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:INFANTIL
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=109&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:INFANTIL
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2373&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:INFANTIL
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=110&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:INFANTIL
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=111&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:INFANTIL
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=112&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:INFANTIL
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=113&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:INFANTIL
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=115&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:INFANTIL
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=117&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:INFANTIL
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=118&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:INFANTIL
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1708&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:INFANTIL
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2147&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:INFANTIL
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2591&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CULTURA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=75&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CULTURA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=86&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CULTURA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=89&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CULTURA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=91&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CULTURA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=92&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CULTURA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=95&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CULTURA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=96&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CULTURA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=98&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CULTURA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=101&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CULTURA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=198&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CULTURA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2145&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CULTURA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2375&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CULTURA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2379&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CULTURA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2594&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:ENTRETENIMIENTO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=85&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:ENTRETENIMIENTO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=48&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:ENTRETENIMIENTO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=55&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:ENTRETENIMIENTO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=59&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:ENTRETENIMIENTO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=62&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:ENTRETENIMIENTO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=64&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:ENTRETENIMIENTO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=71&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:ENTRETENIMIENTO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=76&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:ENTRETENIMIENTO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=74&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:ENTRETENIMIENTO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=78&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:ENTRETENIMIENTO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=83&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:ENTRETENIMIENTO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=94&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:ENTRETENIMIENTO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=199&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:ENTRETENIMIENTO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=205&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:ENTRETENIMIENTO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=207&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:ENTRETENIMIENTO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=209&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:ENTRETENIMIENTO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=215&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:ENTRETENIMIENTO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=219&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:ENTRETENIMIENTO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=340&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:ENTRETENIMIENTO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1499&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:ENTRETENIMIENTO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1842&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:ENTRETENIMIENTO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2113&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3112&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=81&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=335&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=121&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=126&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=128&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=129&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=123&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=124&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=122&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=132&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=135&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=136&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=137&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=138&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=140&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=149&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=158&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=328&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1726&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1787&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:MUSICA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=218&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:MUSICA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=220&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:MUSICA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=221&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:MUSICA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=212&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:MUSICA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=211&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:MUSICA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=213&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:MUSICA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=334&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:DEPORTES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=167&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:DEPORTES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=169&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:DEPORTES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=168&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:DEPORTES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=345&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:DEPORTES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=170&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:DEPORTES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=172&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:DEPORTES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=178&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:DEPORTES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1049&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:DEPORTES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2564&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:DEPORTES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=179&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:DEPORTES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=180&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:DEPORTES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1799&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:DEPORTES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2157&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:NOTICIAS
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=4&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:NOTICIAS
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=184&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:NOTICIAS
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=187&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:NOTICIAS
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=102&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:NOTICIAS
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1250&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:NOTICIAS
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1449&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:NOTICIAS
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1649&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,#EXTGRP:NOTICIAS
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2091&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
