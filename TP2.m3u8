@@ -331,8 +331,6 @@ http://mytv.fun:8080/p38ureiz5q/mteqehc7su/4886
 http://mytv.fun:8080/p38ureiz5q/mteqehc7su/667813
 #EXTINF:-1 group-title="USA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18279_dark_360w_270h.png",DINSNEY XD (US)
 http://mytv.fun:8080/p38ureiz5q/mteqehc7su/14368
-#EXTINF:-1 group-title="USA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s14321_dark_360w_270h.png",FX (US)
-http://mytv.fun:8080/p38ureiz5q/mteqehc7su/13763
 #EXTINF:-1 group-title="USA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10149_dark_360w_270h.png",COMEDY CENTRAL (US)
 http://mytv.fun:8080/p38ureiz5q/mteqehc7su/4882
 #EXTINF:-1 group-title="USA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10240_dark_360w_270h.png",HBO (US)
@@ -383,8 +381,6 @@ http://mytv.fun:8080/p38ureiz5q/mteqehc7su/683748
 http://mytv.fun:8080/p38ureiz5q/mteqehc7su/6583
 #EXTINF:-1 group-title="Europa" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s31168_dark_360w_270h.png",NICKTOONS (UK)
 http://mytv.fun:8080/p38ureiz5q/mteqehc7su/6570
-#EXTINF:-1 group-title="Europa" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s49612_dark_360w_270h.png",SKY ARTS HD (UK)
-http://mytv.fun:8080/p38ureiz5q/mteqehc7su/684070
 #EXTINF:-1 group-title="Europa" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18822_dark_360w_270h.png",VICE HD (UK)
 http://mytv.fun:8080/p38ureiz5q/mteqehc7su/13219
 #EXTINF:-1 group-title="Europa" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s30453_dark_360w_270h.png",VIRGIN MEDIA ONE HD (UK)
@@ -437,8 +433,6 @@ http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 #EXTINF:-1 group-title="México",Imagen Radio
 http://19233.live.streamtheworld.com/XEDAFM.mp3
-#EXTINF:-1 group-title="México",Universal Stereo
-http://22823.live.streamtheworld.com:3690/XHRED_FM_SC
 #EXTINF:-1 group-title="México",Oye 89.7 FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFM.mp3
 #EXTINF:-1 group-title="México",Radio Disney 92.1 FM
