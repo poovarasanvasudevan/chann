@@ -71,8 +71,6 @@ http://balancer1.ottmex.com:8081/tecno/DiscoverySci.TecnoByte/chunks.m3u8
 http://balancer1.ottmex.com:8081/tecno/DISCOVERYTURBO.Tecnobyte/chunks.m3u8
 #EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png",DISCOVERY WORLD
 http://balancer1.ottmex.com:8081/tecno/DiscoveryWorld.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",MX | TUDN
-http://balancer1.ottmex.com:8081/tecno/tdn.BKR/chunks.m3u8
 #EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6EPj-SYViEIRp1q7Zns2RNsd3Nm0l81vBA&usqp=CAU",MX | ESPN 1 NORTE
 http://balancer1.ottmex.com:8081/tecno/Espn1.BKR/chunks.m3u8
 #EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS26QU1pi5nhbw9hndTtO7GOZJfwoMPtlED0Q&usqp=CAU",MX | ESPN 2 NORTE
@@ -423,210 +421,6 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1649&f=HLSAD&s=ze
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2091&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 group-title="TPLEY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/f24.png",France 24 (Español)
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2402&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
-#EXTINF:-1 group-title="Lista 16" tvg-logo="/logos/tudn.png",TUDN
-https://blackghost.live/play/wistream-505.php?cat=latinos&ch=tudn&f=.m3u8
-#EXTINF:-1 group-title="Lista 16" tvg-logo="/logos/goltvlatino.png",GOLTV Latino en vivo Online
-https://blackghost.live/play/wistream-505.php?cat=latinos&ch=goltvlatino&f=.m3u8
-#EXTINF:-1 group-title="Lista 16" tvg-logo="/logos/beinlatino.png",Bein Sports Latino en vivo Online
-https://blackghost.live/play/wistream-505.php?cat=latinos&ch=beinlatino&f=.m3u8
-#EXTINF:-1 group-title="Lista 16" tvg-logo="/logos/vtv.png",VTV URUGUAY
-https://blackghost.live/play/wistream-505.php?cat=latinos&ch=vtv&f=.m3u8
-#EXTINF:-1 group-title="Lista 16" tvg-logo="/logos/caracoltv.png",CARACOL TV
-https://blackghost.live/play/wistream-505.php?cat=latinos&ch=caracoltv&f=.m3u8
-#EXTINF:-1 group-title="Lista 16" tvg-logo="/logos/golperu.png",GOL PERU
-https://blackghost.live/play/wistream-505.php?cat=latinos&ch=golperu&f=.m3u8
-#EXTINF:-1 group-title="Lista 16" tvg-logo="/logos/cdf.png",CDF
-https://blackghost.live/play/wistream-505.php?cat=latinos&ch=cdfpremium&f=.m3u8
-#EXTINF:-1 group-title="Lista 16" tvg-logo="/logos/espnmasar.png",ESPN + ARGENTINA
-https://blackghost.live/play/wistream-505.php?cat=latinos&ch=espn+ar&f=.m3u8
-#EXTINF:-1 group-title="Lista 16" tvg-logo="/logos/directvsports.png",DIRECTV SPORTS
-https://blackghost.live/play/wistream-505.php?cat=latinos&ch=directv-sports&f=.m3u8
-#EXTINF:-1 group-title="Lista 16" tvg-logo="/logos/directvsports2.png",DIRECTV SPORTS 2
-https://blackghost.live/play/wistream-505.php?cat=latinos&ch=directv-sports2&f=.m3u8
-#EXTINF:-1 group-title="Lista 16" tvg-logo="/logos/directv-sports-plus.png",DIRECTV SPORTS PLUS
-https://blackghost.live/play/wistream-505.php?cat=latinos&ch=directv-sports-plus&f=.m3u8
-#EXTINF:-1 group-title="Lista 16" tvg-logo="/logos/golflatino.png",GOLF CHANNEL
-https://blackghost.live/play/wistream-505.php?cat=latinos&ch=golflatino&f=.m3u8
-#EXTINF:-1 group-title="Lista 16" tvg-logo="/logos/univisiondeportes.png",UNIVISION DEPORTES
-https://blackghost.live/play/wistream-505.php?cat=latinos&ch=univisiondeportes&f=.m3u8
-#EXTINF:-1 group-title="Lista 16" tvg-logo="/logos/win.png",WIN SPORTS
-https://blackghost.live/play/wistream-505.php?cat=latinos&ch=winsports&f=.m3u8
-#EXTINF:-1 group-title="Lista 16" tvg-logo="/logos/tn.png",TN ARGENTINA
-https://blackghost.live/play/wistream-505.php?cat=latinos&ch=tn&f=.m3u8
-#EXTINF:-1 group-title="Lista 16" tvg-logo="/logos/ciudadmagazine.png",CIUDAD MAGAZINE
-https://blackghost.live/play/wistream-505.php?cat=latinos&ch=ciudadmagazine&f=.m3u8
-#EXTINF:-1 group-title="Lista 16" tvg-logo="/logos/a24.png",A 24
-https://blackghost.live/play/wistream-505.php?cat=latinos&ch=a24&f=.m3u8
-#EXTINF:-1 group-title="Lista 16" tvg-logo="/logos/discoverycivilization.png",DISCOVERY CIVILIZATION
-https://blackghost.live/play/wistream-505.php?cat=latinos&ch=discoverycivilization&f=.m3u8
-#EXTINF:-1 group-title="Lista 16" tvg-logo="/logos/boing.png",boing
-https://blackghost.live/play/wistream-505.php?cat=infantiles&ch=boing&f=.m3u8
-#EXTINF:-1 group-title="Lista 16" tvg-logo="/logos/clantv.png",clantv
-https://blackghost.live/play/wistream-505.php?cat=infantiles&ch=clantv&f=.m3u8
-#EXTINF:-1 group-title="Lista 16" tvg-logo="/logos/kidstv.png",kidstv
-https://blackghost.live/play/wistream-505.php?cat=infantiles&ch=kidstv&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AZTECA UNO
-https://blackghost.live/play/tlvall-505.php?c=493&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",LAS ESTRELLAS
-https://blackghost.live/play/tlvall-505.php?c=500&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",CANAL 5 MX
-https://blackghost.live/play/tlvall-505.php?c=494&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AZTECA 7 MX
-https://blackghost.live/play/tlvall-505.php?c=495&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",IMAGEN TV
-https://blackghost.live/play/tlvall-505.php?c=497&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR ACTION
-https://blackghost.live/play/tlvall-505.php?c=552&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",SPACE
-https://blackghost.live/play/tlvall-505.php?c=544&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ADRENALINA
-https://blackghost.live/play/tlvall-505.php?c=591&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AFIZZIONADOS
-https://blackghost.live/play/tlvall-505.php?c=174&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",BEIN SPORTS Ñ
-https://blackghost.live/play/tlvall-505.php?c=593&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",BEIN SPORTS HD
-https://blackghost.live/play/tlvall-505.php?c=595&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",CLARO SPORTS
-https://blackghost.live/play/tlvall-505.php?c=682&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ESPN Deportes
-https://blackghost.live/play/tlvall-505.php?c=600&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ESPN 1 MX
-https://blackghost.live/play/tlvall-505.php?c=597&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ESPN 3 MX
-https://blackghost.live/play/tlvall-505.php?c=599&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ESPN EXTRA MX
-https://blackghost.live/play/tlvall-505.php?c=704&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ESPN 3 LA
-https://blackghost.live/play/tlvall-505.php?c=482&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FOX SPORTS 1 MX
-https://blackghost.live/play/tlvall-505.php?c=604&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FOX SPORTS 3 MX
-https://blackghost.live/play/tlvall-505.php?c=606&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",NFL NETWORK
-https://blackghost.live/play/tlvall-505.php?c=337&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",HAVOC
-https://blackghost.live/play/tlvall-505.php?c=164&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TUDN MX
-https://blackghost.live/play/tlvall-505.php?c=617&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TUDN US
-https://blackghost.live/play/tlvall-505.php?c=618&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",UNIMAS
-https://blackghost.live/play/tlvall-505.php?c=619&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",UNIVISION
-https://blackghost.live/play/tlvall-505.php?c=620&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",UNIVERSO
-https://blackghost.live/play/tlvall-505.php?c=611&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",WIN SPORTS
-https://blackghost.live/play/tlvall-505.php?c=491&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",WIN SPORTS PLUS
-https://blackghost.live/play/tlvall-505.php?c=492&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",A MAS MX
-https://blackghost.live/play/tlvall-505.php?c=2&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AZ CORAZON
-https://blackghost.live/play/tlvall-505.php?c=381&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",A&amp;E
-https://blackghost.live/play/tlvall-505.php?c=521&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FOX Channel
-https://blackghost.live/play/tlvall-505.php?c=551&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FOX LIFE
-https://blackghost.live/play/tlvall-505.php?c=556&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FX
-https://blackghost.live/play/tlvall-505.php?c=524&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",INVESTIGATION Discovery
-https://blackghost.live/play/tlvall-505.php?c=573&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",PASIONES
-https://blackghost.live/play/tlvall-505.php?c=662&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",SONY Channel
-https://blackghost.live/play/tlvall-505.php?c=527&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Tele Novelas
-https://blackghost.live/play/tlvall-505.php?c=293&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TBS
-https://blackghost.live/play/tlvall-505.php?c=526&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TNT Series
-https://blackghost.live/play/tlvall-505.php?c=528&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",UNIVERSAL TV
-https://blackghost.live/play/tlvall-505.php?c=529&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",WARNER TV
-https://blackghost.live/play/tlvall-505.php?c=531&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AZ CINEMA
-https://blackghost.live/play/tlvall-505.php?c=532&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AMC
-https://blackghost.live/play/tlvall-505.php?c=428&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",CINECANAL
-https://blackghost.live/play/tlvall-505.php?c=533&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",CINEMAX
-https://blackghost.live/play/tlvall-505.php?c=534&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",CINE LATINO
-https://blackghost.live/play/tlvall-505.php?c=535&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",DHE
-https://blackghost.live/play/tlvall-505.php?c=432&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ISAT
-https://blackghost.live/play/tlvall-505.php?c=539&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",MULTICINEMA
-https://blackghost.live/play/tlvall-505.php?c=540&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",MULTIPREMIER
-https://blackghost.live/play/tlvall-505.php?c=541&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",PARAMOUNT Channel
-https://blackghost.live/play/tlvall-505.php?c=542&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",SYFY
-https://blackghost.live/play/tlvall-505.php?c=547&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AZ MUNDO
-https://blackghost.live/play/tlvall-505.php?c=395&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ANIMAL Planet
-https://blackghost.live/play/tlvall-505.php?c=663&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",DISCOVERY Channel
-https://blackghost.live/play/tlvall-505.php?c=664&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Discovery THEATER
-https://blackghost.live/play/tlvall-505.php?c=665&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Discovery TURBO
-https://blackghost.live/play/tlvall-505.php?c=666&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Histrory 2
-https://blackghost.live/play/tlvall-505.php?c=575&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Home &amp; Health
-https://blackghost.live/play/tlvall-505.php?c=577&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",HOLA TV
-https://blackghost.live/play/tlvall-505.php?c=578&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",NATGEO
-https://blackghost.live/play/tlvall-505.php?c=579&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Natgeo WILD
-https://blackghost.live/play/tlvall-505.php?c=580&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TLC Discovery
-https://blackghost.live/play/tlvall-505.php?c=581&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",CINE LATINO HD
-https://blackghost.live/play/tlvall-505.php?c=536&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",HBO
-https://blackghost.live/play/tlvall-505.php?c=558&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",HBO 2
-https://blackghost.live/play/tlvall-505.php?c=559&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",HBO Plus
-https://blackghost.live/play/tlvall-505.php?c=560&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",HBO Family
-https://blackghost.live/play/tlvall-505.php?c=561&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",HBO Mundi
-https://blackghost.live/play/tlvall-505.php?c=449&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR HITS
-https://blackghost.live/play/tlvall-505.php?c=555&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR SERIES
-https://blackghost.live/play/tlvall-505.php?c=557&f=.m3u8
-#EXTINF:-1 group-title="Lista xtv26",AD Sports 1 HD
-https://blackghost.live/501/tvx.php?opcion=xtv26&c=1
-#EXTINF:-1 group-title="Lista xtv26",La Red
-https://blackghost.live/501/tvx.php?opcion=xtv26&c=3
-#EXTINF:-1 group-title="Lista xtv26",Mega
-https://blackghost.live/501/tvx.php?opcion=xtv26&c=4
-#EXTINF:-1 group-title="Lista xtv26",CDF
-https://blackghost.live/501/tvx.php?opcion=xtv26&c=14
-#EXTINF:-1 group-title="Lista xtv26",CHV
-https://blackghost.live/501/tvx.php?opcion=xtv26&c=15
-#EXTINF:-1 group-title="Lista xtv26",Canal 13
-https://blackghost.live/501/tvx.php?opcion=xtv26&c=43
-#EXTINF:-1 group-title="Lista xtv26",Chilevision FHD
-https://blackghost.live/501/tvx.php?opcion=xtv26&c=46
-#EXTINF:-1 group-title="Lista xtv26",La Red HD
-https://blackghost.live/501/tvx.php?opcion=xtv26&c=47
-#EXTINF:-1 group-title="Lista xtv26",TVN HD
-https://blackghost.live/501/tvx.php?opcion=xtv26&c=48
 #EXTINF:-1 group-title="RELIGIÓN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif",Enlace Juvenil
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93855/12?f=.m3u8
 #EXTINF:-1 group-title="RELIGIÓN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/esne.png",El Sembrador Nueva Evangelización
@@ -635,16 +429,12 @@ https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 group-title="RELIGIÓN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ewtn.png",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://i.ibb.co/5K8QbNp/image.png",Locomotion
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c10.jpg",Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/onceint.png",Canal Once IPN  Int. | HD
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 #EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ochotv.png",Quiero TV | SD
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
-#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rcg.jpg",Canal 4 RCG | SD
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
 #EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rcg.jpg",RCG 2 | SD
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 #EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rcg.jpg",RCG 3 | SD
@@ -665,8 +455,6 @@ http://mdstrm.com/live-stream-playlist_2500/5d4b0fec848918070128c8cb.m3u8?
 http://mdstrm.com/live-stream-playlist_2500/5d5d51a4e9a40e25f4a0332c.m3u8?
 #EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png",CANAL 6 JUAREZ
 http://mdstrm.com/live-stream-playlist_2500/5d9e440d675235586a92be7f.m3u8?
-#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c8cr.png",CANAL 8 COSTA RICA
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?
 #EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png",TELERITMO
 http://mdstrm.com/live-stream-playlist_800/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhimt2.png",A+ METROPOLITANO
