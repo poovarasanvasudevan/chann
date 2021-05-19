@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title = "CANALES HD Y SD", VENUS
 http://45.5.8.78:8000/play/a03c
-#EXTINF:-1 group-title = "TVSATELITE3", Playboy
-http://181.37.235.10:8081/play/a0mw/index.m3u8
 #EXTINF:-1 group-title = "CANALES HD Y SD", PLAYBOY
 http://45.5.8.78:8000/play/a03b
 #EXTINF:-1 tvg-id="" tvg-name="Penthouse Gold HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png" group-title="CINE  +18",Penthouse Gold HD
