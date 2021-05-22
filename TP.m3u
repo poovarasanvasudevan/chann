@@ -299,30 +299,30 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=196&format=HLS&f=.m3u8
 #EXTINF:-1 ,TOP LATINO
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo.png",HBO *FHD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/814
-#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-plus.png",HBO + *FHD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/812
-#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo2.png",HBO 2 *FHD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/810
-#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_hbo_east_small.gif",HBO EAST *FHD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/848
-#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbofamily.png",HBO FAMILY *FHD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/811
-#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="http://i.imgur.com/RQa2ipx.png",HBO FAMILY WEST *FHD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/847
-#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-mundi.png",HBO MUNDI *FHD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/27529
-#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-pop.png",HBO POP *FHD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/815
-#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-xtreme.png",HBO XTREME *FHD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/809
-#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpyNFd7cW1oieFX7ORDpf5c5uIUGFAjxxWx8wxvjb_mgMHb6j&s",HBO SIGNATURE *FHD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/813
-#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/HBO/HBO%20WEST.jpg",HBO WEST *FHD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/844
-#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo.png",HBO | SUBTITULADO *FHD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/817
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84823_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",HBO
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2389.m3u8
+
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO LATINO HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84823_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",HBO LATINO HD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2388.m3u8
+
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80652_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",HBO 2
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2391.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80118_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",HBO Family
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2395.m3u8
+
+#EXTINF:-1 tvg-id="HBOMundi.mx" tvg-name="HBO MUNDI" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s87164_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",HBO MUNDI
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/27530.m3u8
+
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s82003_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",HBO PLUS
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2392.m3u8
+
+#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO SIGNATURE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74450_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",HBO SIGNATURE
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2604.m3u8
+
+#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80115_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",HBO XTREME
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/955.m3u8
+
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/VCLWgAY.jpg",adn40 (Partly GEO-Blocked outside MX)
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg",Alcarria TV
