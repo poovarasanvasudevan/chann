@@ -1,6 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M7rXn75/mini-6010556185be1.jpg",Raya y El Ultimo Dragon
 https://splogs-my.sharepoint.com/:v:/g/personal/laureanobrizuela_my365_ws/EcopsXp5bBFCkOfZXAd5dPEB9E3Pi6oeEiG6jSiZbGR3AA?download=1
+#EXTINF:-1 tvg-logo="http://archive.org/download/images-4_202103/images%20%284%29.jpeg",ESPIAS A ESCONDIDAS
+http://archive.org/download/spymp4/spymp4.mp4
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cv0tnajw2c6turq/soul.jpg",Soul
+https://archive.org/download/soul.-2020/Soul.2020.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/khwF7r1/Unidos-2020.jpg",Unidos (2020)
+https://dl.dropbox.com/s/t1a3k747pq93w3b/Unidos.2020.mp4
+#EXTINF:-1,Abominable (2019)
+http://compitv.info:8080/movie/LuisW01/Q3gTdLqACY/153213.mp4
+#EXTINF:-1,Coco (2017)
+http://compitv.info:8080/movie/LuisW01/Q3gTdLqACY/153379.mkv
+#EXTINF:-1 ,mascotas 2
+https://content.jwplatform.com/videos/JL07jp2o-raeJNV7L.mp4
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8sRdJzv/Vida-Secreta-Mascotas11.jpg",La vida secreta de tus mascotas
+http://archive.org/download/ulakinw_w542c_mygeoweb_4/DFRT/5.mp4
+
 #EXTINF:0 group-title="PELICULAS" tvg-logo="https://pelismaraton.com/poster/mortal-kombat.jpg", Mortal Kombat 2021
 http://ipeteve.com/REGIOFLIX100321/m0rt4l.k0mb4t.2021.hdrip.720p.latino.mp4
 #EXTINF:-1  tvg-logo="https://dam.smashmexico.com.mx/wp-content/uploads/2020/05/Justice-league-zack-snyder-cut-estreno-hbo-max-cover.jpg",Liga de la Justicia de Zack Snyder
