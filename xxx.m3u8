@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-id="Eroxxx.ero" group-title="Channels",EROxxx HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10105
 #EXTINF:-1 group-title = "CANALES HD Y SD", VENUS
 http://45.5.8.78:8000/play/a03c
 #EXTINF:-1 group-title = "CANALES HD Y SD", PLAYBOY
