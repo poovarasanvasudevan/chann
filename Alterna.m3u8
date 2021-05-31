@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1, DREIKOTV CANAL 24/7
-https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
-#EXTINF:0 tvg-logo="", Discovery ID
-http://ipeteve.com/php/th.php?channel=id145d&f.m3u8
-#EXTINF:0 tvg-logo="", RCN
-https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
-#EXTINF:0 tvg-logo="", Locomotion
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:0 tvg-logo="", 93.3 FM
-https://14543.live.streamtheworld.com/XHQQ_FM_SC
-#EXTINF:0 tvg-logo="", 690 RG AM
-https://19303.live.streamtheworld.com/RG690_SC
-#EXTINF:0 tvg-logo="", LA MEJOR 92.5 FM
-https://16643.live.streamtheworld.com/XHSROFM_SC
-#EXTINF:0 tvg-logo="", LA CALIENTE 94.1
-https://14943.live.streamtheworld.com/XETFM_SC
-#EXTINF:0 tvg-logo="", LA LUPE 105.3
-https://16693.live.streamtheworld.com/XHPAGFM_SC
 
 *** NACIONALES ***
 #EXTINF:-1, ONCE NINOS (CLASES)
